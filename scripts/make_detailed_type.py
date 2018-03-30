@@ -65,7 +65,7 @@ def load_result(out, dic_name, cancer_type):
 
     for i in range(num_predicted):
         num = str(i+1)
-        out.write('<h3 id=' + num + '_' + cancer_type + '>Signature ' + num + '</h3>\n')
+        out.write('<h3 id=' + num + '_' + cancer_type + '>Signature ' + num + '</h3>  ')
         out.write('<figure>\n')
         fig_path = dic_name + '/' + cancer_type + '/predicted_' + num + '.png'
         out.write('<a href=' + fig_path + ' data-lightbox=\"enlarged\">')
@@ -103,6 +103,10 @@ def load_result(out, dic_name, cancer_type):
                 out.write('<img src=' + fig_path + ' width=480></a>\n')
                 out.write('<figcaption> Detail context for ' + fixed_context[j] + '</figcaption>\n')
                 out.write('</figure>\n')
+        
+        out.write('<br><br>')
+        description_path = dic_name + '/' + cancer_type + '/detailed_description_' + num + '.txt'
+        out.write('<a href=' + description_path + ' target=_brank> (Peaks in text format, and detailed composition) </a>\n')
 
     return out
 

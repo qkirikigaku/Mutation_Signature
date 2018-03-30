@@ -1,0 +1,33 @@
+Detailed Description of M1 skin predicted signature 17
+
+Peaks
+
+One base masked : 
+X[T>C]T : 0.5147 **
+G[T>C]X : 0.4839 **
+X[T>G]G : 0.1422 
+T[T>C]X : 0.1366 
+G[T>G]X : 0.1163 
+X[T>C]G : 0.0996 
+X[T>C]A : 0.0771 
+A[T>C]X : 0.0709 
+X[T>A]T : 0.0589 
+G[T>A]X : 0.0502 
+A[T>A]X : 0.0421 
+A[T>G]X : 0.0357 
+T[C>G]X : 0.0352 
+X[T>A]G : 0.0334 
+X[C>G]G : 0.0273 
+X[T>G]C : 0.0183 
+C[T>G]X : 0.0147 
+X[C>G]C : 0.014 
+X[C>A]T : 0.0083 
+A[C>A]X : 0.0083 
+
+
+Dictionary
+A[C>A]A	A[C>A]C	A[C>A]G	A[C>A]T	A[C>G]A	A[C>G]C	A[C>G]G	A[C>G]T	A[C>T]A	A[C>T]C	A[C>T]G	A[C>T]T	A[T>A]A	A[T>A]C	A[T>A]G	A[T>A]T	A[T>C]A	A[T>C]C	A[T>C]G	A[T>C]T	A[T>G]A	A[T>G]C	A[T>G]G	A[T>G]T	C[C>A]A	C[C>A]C	C[C>A]G	C[C>A]T	C[C>G]A	C[C>G]C	C[C>G]G	C[C>G]T	C[C>T]A	C[C>T]C	C[C>T]G	C[C>T]T	C[T>A]A	C[T>A]C	C[T>A]G	C[T>A]T	C[T>C]A	C[T>C]C	C[T>C]G	C[T>C]T	C[T>G]A	C[T>G]C	C[T>G]G	C[T>G]T	G[C>A]A	G[C>A]C	G[C>A]G	G[C>A]T	G[C>G]A	G[C>G]C	G[C>G]G	G[C>G]T	G[C>T]A	G[C>T]C	G[C>T]G	G[C>T]T	G[T>A]A	G[T>A]C	G[T>A]G	G[T>A]T	G[T>C]A	G[T>C]C	G[T>C]G	G[T>C]T	G[T>G]A	G[T>G]C	G[T>G]G	G[T>G]T	T[C>A]A	T[C>A]C	T[C>A]G	T[C>A]T	T[C>G]A	T[C>G]C	T[C>G]G	T[C>G]T	T[C>T]A	T[C>T]C	T[C>T]G	T[C>T]T	T[T>A]A	T[T>A]C	T[T>A]G	T[T>A]T	T[T>C]A	T[T>C]C	T[T>C]G	T[T>C]T	T[T>G]A	T[T>G]C	T[T>G]G	T[T>G]T	
+
+Proportion
+0.0	0.0	0.0	0.008297	0.0	0.0	0.006138	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.042091	0.010634	0.0	0.029418	0.030809	0.0	0.0	0.035713	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00623	0.0	0.008444	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.03336	0.016854	0.0	0.0	0.0	0.483922	0.0	0.018346	0.098	0.0	0.0	0.0	0.0	0.0	0.0	0.013971	0.021197	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.066432	0.0	0.070145	0.0	0.0	0.0	0.0	0.0	
+

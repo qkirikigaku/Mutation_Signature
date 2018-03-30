@@ -1,0 +1,33 @@
+Detailed Description of M1 large_intestine predicted signature 11
+
+Peaks
+
+One base masked : 
+G[C>T]X : 0.8704 **
+X[C>T]G : 0.8263 **
+X[C>T]C : 0.0893 
+A[C>T]X : 0.0215 
+X[C>A]T : 0.0196 
+T[C>T]X : 0.0165 
+G[C>A]X : 0.0164 
+C[C>T]X : 0.0142 
+X[T>A]C : 0.0137 
+A[T>A]X : 0.0125 
+G[T>C]X : 0.0102 
+T[C>A]X : 0.0098 
+X[C>A]G : 0.0097 
+X[T>C]A : 0.0084 
+X[T>C]C : 0.0083 
+X[C>T]T : 0.007 
+G[C>G]X : 0.0062 
+G[T>A]X : 0.0062 
+C[C>A]X : 0.0058 
+A[T>C]X : 0.0051 
+
+
+Dictionary
+A[C>A]A	A[C>A]C	A[C>A]G	A[C>A]T	A[C>G]A	A[C>G]C	A[C>G]G	A[C>G]T	A[C>T]A	A[C>T]C	A[C>T]G	A[C>T]T	A[T>A]A	A[T>A]C	A[T>A]G	A[T>A]T	A[T>C]A	A[T>C]C	A[T>C]G	A[T>C]T	A[T>G]A	A[T>G]C	A[T>G]G	A[T>G]T	C[C>A]A	C[C>A]C	C[C>A]G	C[C>A]T	C[C>G]A	C[C>G]C	C[C>G]G	C[C>G]T	C[C>T]A	C[C>T]C	C[C>T]G	C[C>T]T	C[T>A]A	C[T>A]C	C[T>A]G	C[T>A]T	C[T>C]A	C[T>C]C	C[T>C]G	C[T>C]T	C[T>G]A	C[T>G]C	C[T>G]G	C[T>G]T	G[C>A]A	G[C>A]C	G[C>A]G	G[C>A]T	G[C>G]A	G[C>G]C	G[C>G]G	G[C>G]T	G[C>T]A	G[C>T]C	G[C>T]G	G[C>T]T	G[T>A]A	G[T>A]C	G[T>A]G	G[T>A]T	G[T>C]A	G[T>C]C	G[T>C]G	G[T>C]T	G[T>G]A	G[T>G]C	G[T>G]G	G[T>G]T	T[C>A]A	T[C>A]C	T[C>A]G	T[C>A]T	T[C>G]A	T[C>G]C	T[C>G]G	T[C>G]T	T[C>T]A	T[C>T]C	T[C>T]G	T[C>T]T	T[T>A]A	T[T>A]C	T[T>A]G	T[T>A]T	T[T>C]A	T[T>C]C	T[T>C]G	T[T>C]T	T[T>G]A	T[T>G]C	T[T>G]G	T[T>G]T	
+
+Proportion
+0.0	0.002173	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.021459	0.0	0.0	0.00749	0.0	0.005037	0.000429	0.004655	0.0	0.0	0.0	0.0	0.0	0.001711	0.0	0.0	0.005801	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.014187	0.0	0.0	0.0	0.0	0.0	0.001427	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.002708	0.003916	0.009798	0.0	0.00301	0.0	0.003165	0.0	0.072756	0.790627	0.007015	0.0	0.006174	0.0	0.0	0.006539	0.003649	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00977	0.0	0.0	0.0	0.0	0.0	0.016509	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+

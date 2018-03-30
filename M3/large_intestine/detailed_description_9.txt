@@ -1,0 +1,33 @@
+Detailed Description of M3 large_intestine predicted signature 9
+
+Peaks
+
+One base masked : 
+X[C>T]G : 0.5078 **
+T[C>T]X : 0.5068 **
+G[C>T]X : 0.1354 
+X[T>G]T : 0.1142 
+G[T>C]X : 0.1129 
+T[T>G]X : 0.1029 
+X[C>T]T : 0.0913 
+X[T>C]C : 0.0703 
+X[T>C]A : 0.0583 
+T[T>C]X : 0.0535 
+X[T>C]T : 0.0466 
+X[C>T]C : 0.0405 
+C[T>G]X : 0.0248 
+X[T>G]C : 0.0241 
+A[T>C]X : 0.0236 
+X[T>C]G : 0.0148 
+A[T>G]X : 0.0099 
+X[C>T]A : 0.0058 
+G[T>G]X : 0.0056 
+X[C>A]T : 0.0054 
+
+
+Dictionary
+A[C>A]A	A[C>A]C	A[C>A]G	A[C>A]T	A[C>G]A	A[C>G]C	A[C>G]G	A[C>G]T	A[C>T]A	A[C>T]C	A[C>T]G	A[C>T]T	A[T>A]A	A[T>A]C	A[T>A]G	A[T>A]T	A[T>C]A	A[T>C]C	A[T>C]G	A[T>C]T	A[T>G]A	A[T>G]C	A[T>G]G	A[T>G]T	C[C>A]A	C[C>A]C	C[C>A]G	C[C>A]T	C[C>G]A	C[C>G]C	C[C>G]G	C[C>G]T	C[C>T]A	C[C>T]C	C[C>T]G	C[C>T]T	C[T>A]A	C[T>A]C	C[T>A]G	C[T>A]T	C[T>C]A	C[T>C]C	C[T>C]G	C[T>C]T	C[T>G]A	C[T>G]C	C[T>G]G	C[T>G]T	G[C>A]A	G[C>A]C	G[C>A]G	G[C>A]T	G[C>G]A	G[C>G]C	G[C>G]G	G[C>G]T	G[C>T]A	G[C>T]C	G[C>T]G	G[C>T]T	G[T>A]A	G[T>A]C	G[T>A]G	G[T>A]T	G[T>C]A	G[T>C]C	G[T>C]G	G[T>C]T	G[T>G]A	G[T>G]C	G[T>G]G	G[T>G]T	T[C>A]A	T[C>A]C	T[C>A]G	T[C>A]T	T[C>G]A	T[C>G]C	T[C>G]G	T[C>G]T	T[C>T]A	T[C>T]C	T[C>T]G	T[C>T]T	T[T>A]A	T[T>A]C	T[T>A]G	T[T>A]T	T[T>C]A	T[T>C]C	T[T>C]G	T[T>C]T	T[T>G]A	T[T>G]C	T[T>G]G	T[T>G]T	small,GA	small,TA	small,CT	small,GC	small,CC	small,TG	small,AT	small,CG	small,AC	small,AA	big,CT	big,AA	big,TG	big,AC	big,GC	big,TA	big,CG	big,AT	big,GA	big,CC	
+
+Proportion
+0.0	0.0	0.0	0.0	0.001687	0.0	0.0	0.000376	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.011009	0.007668	0.0	0.004901	0.0	0.0	0.0	0.009902	0.0	0.0	0.0	0.005407	0.0	0.0	0.0	0.0	0.0	0.0	0.00319	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.002185	0.001853	0.02072	0.004119	0.0	0.0	0.0	0.001467	0.0	0.0	0.0	0.0	0.010797	0.088996	0.035637	0.0	0.0	0.0	0.0	0.038355	0.038635	0.007285	0.028647	0.00297	0.002605	0.0	0.0	0.0	0.005326	0.0	0.0	0.0	0.0	0.0	0.0	0.005814	0.029683	0.415655	0.055681	0.0	0.000898	0.00108	0.001057	0.008891	0.024011	0.007529	0.013093	0.0	0.019297	0.0	0.083572	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+

@@ -1,0 +1,33 @@
+Detailed Description of M3 endometrium predicted signature 4
+
+Peaks
+
+One base masked : 
+T[C>T]X : 0.5608 **
+X[C>T]G : 0.5397 **
+X[C>A]T : 0.2666 *
+T[C>A]X : 0.2645 *
+X[C>T]T : 0.0757 
+G[C>T]X : 0.0601 
+X[C>T]C : 0.0484 
+A[C>T]X : 0.0299 
+C[C>T]X : 0.0196 
+X[C>A]C : 0.0172 
+X[T>C]G : 0.0144 
+T[T>G]X : 0.0144 
+X[T>G]T : 0.0125 
+T[T>C]X : 0.0121 
+A[T>C]X : 0.008 
+G[C>A]X : 0.0073 
+C[C>A]X : 0.0072 
+X[T>C]C : 0.0068 
+X[C>T]A : 0.0067 
+X[T>C]T : 0.0057 
+
+
+Dictionary
+A[C>A]A	A[C>A]C	A[C>A]G	A[C>A]T	A[C>G]A	A[C>G]C	A[C>G]G	A[C>G]T	A[C>T]A	A[C>T]C	A[C>T]G	A[C>T]T	A[T>A]A	A[T>A]C	A[T>A]G	A[T>A]T	A[T>C]A	A[T>C]C	A[T>C]G	A[T>C]T	A[T>G]A	A[T>G]C	A[T>G]G	A[T>G]T	C[C>A]A	C[C>A]C	C[C>A]G	C[C>A]T	C[C>G]A	C[C>G]C	C[C>G]G	C[C>G]T	C[C>T]A	C[C>T]C	C[C>T]G	C[C>T]T	C[T>A]A	C[T>A]C	C[T>A]G	C[T>A]T	C[T>C]A	C[T>C]C	C[T>C]G	C[T>C]T	C[T>G]A	C[T>G]C	C[T>G]G	C[T>G]T	G[C>A]A	G[C>A]C	G[C>A]G	G[C>A]T	G[C>G]A	G[C>G]C	G[C>G]G	G[C>G]T	G[C>T]A	G[C>T]C	G[C>T]G	G[C>T]T	G[T>A]A	G[T>A]C	G[T>A]G	G[T>A]T	G[T>C]A	G[T>C]C	G[T>C]G	G[T>C]T	G[T>G]A	G[T>G]C	G[T>G]G	G[T>G]T	T[C>A]A	T[C>A]C	T[C>A]G	T[C>A]T	T[C>G]A	T[C>G]C	T[C>G]G	T[C>G]T	T[C>T]A	T[C>T]C	T[C>T]G	T[C>T]T	T[T>A]A	T[T>A]C	T[T>A]G	T[T>A]T	T[T>C]A	T[T>C]C	T[T>C]G	T[T>C]T	T[T>G]A	T[T>G]C	T[T>G]G	T[T>G]T	small,TA	small,GA	big,CG	small,CT	small,GC	small,TG	small,AT	big,CC	small,CC	small,AA	small,AC	small,CG	big,TG	big,GA	big,CT	big,AC	big,AT	big,TA	big,AA	big,GC	
+
+Proportion
+0.0	0.0	0.0	0.004736	0.0	0.0	0.0	0.000406	0.0	0.004504	0.024548	0.000865	0.0	0.0	0.0	0.0	0.0	0.002999	0.002977	0.002021	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.007227	0.0	0.0	0.0	0.0	0.0	0.0	0.016466	0.00318	0.0	0.0	0.0	0.0	0.0	0.0	0.003667	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.007278	0.0	0.0	0.0	0.0	0.0	0.017785	0.029248	0.013031	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.003192	0.0	0.002118	0.0	0.0	0.0	0.017164	0.0	0.247331	0.0	0.0	0.0	0.0	0.006688	0.026125	0.469389	0.058645	0.0	0.0	0.0	0.001974	0.0	0.003818	0.007737	0.000521	0.0	0.0	0.001879	0.01248	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+

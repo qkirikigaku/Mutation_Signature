@@ -1,0 +1,33 @@
+Detailed Description of M3 urinary_tract predicted signature 4
+
+Peaks
+
+One base masked : 
+T[C>G]X : 0.548 **
+X[C>G]T : 0.257 *
+T[C>T]X : 0.2361 *
+X[C>G]A : 0.2179 *
+X[C>T]A : 0.1262 
+T[C>A]X : 0.103 
+X[C>T]G : 0.0863 
+X[C>G]C : 0.0688 
+X[C>T]T : 0.0598 
+X[C>A]A : 0.0469 
+X[C>T]C : 0.0369 
+G[C>T]X : 0.031 
+X[C>G]G : 0.0299 
+X[C>A]C : 0.0262 
+C[C>T]X : 0.0253 
+X[C>A]T : 0.0248 
+A[C>T]X : 0.0168 
+X[C>A]G : 0.0165 
+C[C>G]X : 0.0122 
+A[C>G]X : 0.0078 
+
+
+Dictionary
+A[C>A]A	A[C>A]C	A[C>A]G	A[C>A]T	A[C>G]A	A[C>G]C	A[C>G]G	A[C>G]T	A[C>T]A	A[C>T]C	A[C>T]G	A[C>T]T	A[T>A]A	A[T>A]C	A[T>A]G	A[T>A]T	A[T>C]A	A[T>C]C	A[T>C]G	A[T>C]T	A[T>G]A	A[T>G]C	A[T>G]G	A[T>G]T	C[C>A]A	C[C>A]C	C[C>A]G	C[C>A]T	C[C>G]A	C[C>G]C	C[C>G]G	C[C>G]T	C[C>T]A	C[C>T]C	C[C>T]G	C[C>T]T	C[T>A]A	C[T>A]C	C[T>A]G	C[T>A]T	C[T>C]A	C[T>C]C	C[T>C]G	C[T>C]T	C[T>G]A	C[T>G]C	C[T>G]G	C[T>G]T	G[C>A]A	G[C>A]C	G[C>A]G	G[C>A]T	G[C>G]A	G[C>G]C	G[C>G]G	G[C>G]T	G[C>T]A	G[C>T]C	G[C>T]G	G[C>T]T	G[T>A]A	G[T>A]C	G[T>A]G	G[T>A]T	G[T>C]A	G[T>C]C	G[T>C]G	G[T>C]T	G[T>G]A	G[T>G]C	G[T>G]G	G[T>G]T	T[C>A]A	T[C>A]C	T[C>A]G	T[C>A]T	T[C>G]A	T[C>G]C	T[C>G]G	T[C>G]T	T[C>T]A	T[C>T]C	T[C>T]G	T[C>T]T	T[T>A]A	T[T>A]C	T[T>A]G	T[T>A]T	T[T>C]A	T[T>C]C	T[T>C]G	T[T>C]T	T[T>G]A	T[T>G]C	T[T>G]G	T[T>G]T	small,CG	small,TG	small,GC	small,AA	small,AT	small,AC	small,GA	small,TA	small,CT	small,CC	big,AA	big,CC	big,GC	big,CT	big,TG	big,GA	big,AC	big,TA	big,AT	
+
+Proportion
+0.001599	0.0	1e-06	0.000376	0.001729	0.00136	0.002335	0.002364	0.000728	0.002048	0.013997	1.5e-05	0.0	0.0	0.0	0.00073	0.000538	5e-06	1e-06	1e-06	0.0	0.0	0.0	0.0	0.002484	0.001091	0.002861	1e-06	0.00577	0.0	0.0	0.006449	0.003738	0.002967	0.015357	0.003224	0.0	0.0	0.0	3e-06	0.0	5e-06	1.8e-05	0.000439	0.0	0.0	0.0	0.0	0.00189	0.0	0.000731	0.0003	0.0	0.00149	0.0	0.004284	0.006679	0.001968	0.018136	0.004214	0.0	0.0	0.0	0.0	0.0	1e-06	1e-06	2e-06	0.0	0.0	0.000304	0.0	0.040933	0.025078	0.012859	0.024137	0.210442	0.065979	0.027603	0.243933	0.115018	0.029933	0.038778	0.052335	0.0	0.0	0.0	0.0	0.0	1e-06	0.0	0.000736	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+

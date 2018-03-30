@@ -1,0 +1,33 @@
+Detailed Description of M3 stomach predicted signature 4
+
+Peaks
+
+One base masked : 
+X[T>C]G : 0.3494 **
+C[T>C]X : 0.2255 *
+A[T>C]X : 0.2075 *
+X[C>T]G : 0.2023 *
+G[T>C]X : 0.1268 
+X[T>C]C : 0.1065 
+A[C>T]X : 0.0928 
+C[C>T]X : 0.089 
+X[T>C]A : 0.0885 
+X[T>C]T : 0.0587 
+G[C>T]X : 0.053 
+C[T>G]X : 0.0487 
+X[C>T]T : 0.0474 
+T[T>C]X : 0.0433 
+X[T>G]G : 0.0401 
+T[C>T]X : 0.0341 
+C[C>A]X : 0.0294 
+X[C>A]T : 0.0235 
+X[T>G]C : 0.0227 
+X[C>A]C : 0.0188 
+
+
+Dictionary
+A[C>A]A	A[C>A]C	A[C>A]G	A[C>A]T	A[C>G]A	A[C>G]C	A[C>G]G	A[C>G]T	A[C>T]A	A[C>T]C	A[C>T]G	A[C>T]T	A[T>A]A	A[T>A]C	A[T>A]G	A[T>A]T	A[T>C]A	A[T>C]C	A[T>C]G	A[T>C]T	A[T>G]A	A[T>G]C	A[T>G]G	A[T>G]T	C[C>A]A	C[C>A]C	C[C>A]G	C[C>A]T	C[C>G]A	C[C>G]C	C[C>G]G	C[C>G]T	C[C>T]A	C[C>T]C	C[C>T]G	C[C>T]T	C[T>A]A	C[T>A]C	C[T>A]G	C[T>A]T	C[T>C]A	C[T>C]C	C[T>C]G	C[T>C]T	C[T>G]A	C[T>G]C	C[T>G]G	C[T>G]T	G[C>A]A	G[C>A]C	G[C>A]G	G[C>A]T	G[C>G]A	G[C>G]C	G[C>G]G	G[C>G]T	G[C>T]A	G[C>T]C	G[C>T]G	G[C>T]T	G[T>A]A	G[T>A]C	G[T>A]G	G[T>A]T	G[T>C]A	G[T>C]C	G[T>C]G	G[T>C]T	G[T>G]A	G[T>G]C	G[T>G]G	G[T>G]T	T[C>A]A	T[C>A]C	T[C>A]G	T[C>A]T	T[C>G]A	T[C>G]C	T[C>G]G	T[C>G]T	T[C>T]A	T[C>T]C	T[C>T]G	T[C>T]T	T[T>A]A	T[T>A]C	T[T>A]G	T[T>A]T	T[T>C]A	T[T>C]C	T[T>C]G	T[T>C]T	T[T>G]A	T[T>G]C	T[T>G]G	T[T>G]T	small,GC	small,TG	small,TA	small,AT	small,CT	small,GA	small,AC	small,CC	small,CG	big,AA	small,AA	big,CC	big,CG	big,GA	big,GC	big,TG	big,AT	big,CT	big,AC	big,TA	
+
+Proportion
+0.003733	0.006274	0.001763	0.0	0.0	0.0	0.0	0.0	0.0	0.003601	0.067958	0.021273	0.0	0.0	0.0	0.001509	0.034013	0.036313	0.122583	0.014554	0.0	0.004373	0.002611	0.0	0.0	0.012511	0.0	0.016844	0.0	0.0	0.0	0.0	0.005954	0.000771	0.078783	0.003511	0.0	0.004741	0.0	0.0	0.031644	0.026986	0.139055	0.027785	0.0	0.018343	0.030403	0.0	0.0	0.0	0.006341	0.006632	0.0	0.0	0.0	0.0	1e-06	0.00882	0.021497	0.022637	0.0	0.0	0.003792	0.0	0.022802	0.027899	0.065375	0.010722	0.0	0.0	0.007116	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1e-06	0.034107	0.0	0.0	0.0	0.0	0.0	0.0	0.015307	0.022376	0.005611	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.000477	0.0	0.0	0.0	0.000597	0.0	0.0	
+

@@ -1,0 +1,33 @@
+Detailed Description of M3 breast predicted signature 8
+
+Peaks
+
+One base masked : 
+T[C>T]X : 0.7259 **
+X[C>T]A : 0.362 **
+X[C>T]T : 0.2084 *
+T[C>A]X : 0.1248 
+X[C>T]C : 0.1111 
+X[C>T]G : 0.0925 
+T[C>G]X : 0.0732 
+X[C>G]T : 0.0658 
+X[C>A]A : 0.0569 
+X[C>A]T : 0.0373 
+X[C>A]C : 0.0281 
+G[C>T]X : 0.0211 
+C[C>T]X : 0.0161 
+A[C>T]X : 0.0109 
+X[C>A]G : 0.0089 
+X[C>G]A : 0.0084 
+C[C>G]X : 0.0079 
+X[C>G]C : 0.007 
+G[C>A]X : 0.0046 
+A[T>C]X : 0.0037 
+
+
+Dictionary
+A[C>A]A	A[C>A]C	A[C>A]G	A[C>A]T	A[C>G]A	A[C>G]C	A[C>G]G	A[C>G]T	A[C>T]A	A[C>T]C	A[C>T]G	A[C>T]T	A[T>A]A	A[T>A]C	A[T>A]G	A[T>A]T	A[T>C]A	A[T>C]C	A[T>C]G	A[T>C]T	A[T>G]A	A[T>G]C	A[T>G]G	A[T>G]T	C[C>A]A	C[C>A]C	C[C>A]G	C[C>A]T	C[C>G]A	C[C>G]C	C[C>G]G	C[C>G]T	C[C>T]A	C[C>T]C	C[C>T]G	C[C>T]T	C[T>A]A	C[T>A]C	C[T>A]G	C[T>A]T	C[T>C]A	C[T>C]C	C[T>C]G	C[T>C]T	C[T>G]A	C[T>G]C	C[T>G]G	C[T>G]T	G[C>A]A	G[C>A]C	G[C>A]G	G[C>A]T	G[C>G]A	G[C>G]C	G[C>G]G	G[C>G]T	G[C>T]A	G[C>T]C	G[C>T]G	G[C>T]T	G[T>A]A	G[T>A]C	G[T>A]G	G[T>A]T	G[T>C]A	G[T>C]C	G[T>C]G	G[T>C]T	G[T>G]A	G[T>G]C	G[T>G]G	G[T>G]T	T[C>A]A	T[C>A]C	T[C>A]G	T[C>A]T	T[C>G]A	T[C>G]C	T[C>G]G	T[C>G]T	T[C>T]A	T[C>T]C	T[C>T]G	T[C>T]T	T[T>A]A	T[T>A]C	T[T>A]G	T[T>A]T	T[T>C]A	T[T>C]C	T[T>C]G	T[T>C]T	T[T>G]A	T[T>G]C	T[T>G]G	T[T>G]T	small,AA	small,TG	small,CT	small,GA	small,GC	small,CG	small,AC	small,TA	big,TG	small,CC	big,CC	big,AA	big,AC	small,AT	
+
+Proportion
+0.0	0.0	0.0	0.001889	0.0	0.0	0.0	0.0	0.003844	0.00273	0.004294	0.0	0.0	0.0	0.001919	0.0	0.0	0.002899	0.0	0.000778	0.0	0.0	0.0	0.000687	1e-06	0.0	0.0	0.0	0.000738	0.0	0.0	0.007168	0.013781	0.0	0.002351	4e-06	0.0	0.0	0.0	0.000764	0.0	0.0	0.0	0.0	0.0	0.000766	0.0	0.0	0.002516	0.0	0.0	0.00209	0.0	0.0	0.0	0.0	0.009574	0.006944	1.3e-05	0.004538	0.0	0.001809	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.054406	0.028117	0.008914	0.033371	0.00763	0.006997	0.0	0.058588	0.334754	0.101462	0.085857	0.203816	0.0	0.001536	0.0	0.0	0.0	0.0	0.0	0.002455	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+
