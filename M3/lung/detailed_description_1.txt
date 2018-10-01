@@ -2,6 +2,28 @@ Detailed Description of M3 lung predicted signature 1
 
 Peaks
 
+No base masked : 
+C[C>A]A : 0.2705
+T[C>A]G : 0.2206
+C[C>A]T : 0.0773
+T[C>A]A : 0.0738
+C[C>A]C : 0.0564
+T[C>A]T : 0.0475
+A[C>A]A : 0.0391
+T[C>A]C : 0.0195
+A[C>A]T : 0.0194
+G[C>A]A : 0.0169
+G[C>A]G : 0.0123
+A[C>A]G : 0.0121
+G[C>A]T : 0.0104
+C[C>G]G : 0.0103
+T[C>T]C : 0.0078
+C[C>T]T : 0.0071
+C[T>C]G : 0.0067
+T[C>T]T : 0.0062
+G[C>T]T : 0.0056
+C[C>G]T : 0.0048
+
 One base masked : 
 C[C>A]X : 0.4042 **
 X[C>A]A : 0.4004 **

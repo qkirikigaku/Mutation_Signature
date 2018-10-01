@@ -2,6 +2,28 @@ Detailed Description of M2 upper_aerodigestive_tract predicted signature 1
 
 Peaks
 
+No base masked : 
+TT[C>T]TC : 0.0356
+CT[C>T]TC : 0.0294
+CT[C>T]CC : 0.0244
+TC[C>T]TC : 0.0231
+TC[C>T]AC : 0.018
+CT[C>T]AC : 0.0172
+TT[C>T]AC : 0.0168
+TC[C>T]CT : 0.0149
+TT[C>T]CC : 0.0145
+TC[C>T]TT : 0.0137
+CC[C>T]TC : 0.0131
+TC[C>T]CC : 0.013
+AT[C>T]TC : 0.0127
+TC[C>T]GA : 0.0124
+TT[C>T]TG : 0.0116
+CC[C>T]CC : 0.0116
+CC[C>T]GA : 0.0109
+AT[C>T]AC : 0.0109
+TT[C>T]TT : 0.0106
+TC[C>T]TA : 0.0105
+
 One base masked : 
 XT[C>T]TC : 0.0879 
 CT[C>T]XC : 0.0811 

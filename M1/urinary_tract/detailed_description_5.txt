@@ -2,6 +2,28 @@ Detailed Description of M1 urinary_tract predicted signature 5
 
 Peaks
 
+No base masked : 
+T[C>T]A : 0.3448
+T[C>T]T : 0.1827
+T[C>T]G : 0.1411
+T[C>T]C : 0.1022
+T[C>G]T : 0.0468
+T[C>G]A : 0.036
+C[C>T]A : 0.0148
+T[C>G]C : 0.0108
+C[C>T]G : 0.0101
+T[C>A]C : 0.0095
+G[C>T]C : 0.0082
+C[C>T]T : 0.0075
+A[C>T]G : 0.0073
+T[C>A]T : 0.0073
+T[C>A]A : 0.0069
+G[C>T]A : 0.0068
+G[C>T]G : 0.0067
+T[C>G]G : 0.0064
+C[C>T]C : 0.0063
+A[C>T]A : 0.0059
+
 One base masked : 
 T[C>T]X : 0.7709 **
 X[C>T]A : 0.3723 **

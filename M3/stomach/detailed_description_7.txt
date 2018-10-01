@@ -2,6 +2,28 @@ Detailed Description of M3 stomach predicted signature 7
 
 Peaks
 
+No base masked : 
+G[T>C]A : 0.1502
+G[T>C]T : 0.1005
+G[T>C]G : 0.0886
+G[T>C]C : 0.0666
+C[C>T]G : 0.0459
+A[C>T]G : 0.0458
+T[T>C]A : 0.0405
+G[C>T]C : 0.0383
+T[T>C]G : 0.0309
+T[T>C]C : 0.0283
+A[T>C]A : 0.0267
+T[T>C]T : 0.0239
+C[T>C]A : 0.0233
+A[T>C]G : 0.0232
+C[T>C]G : 0.0208
+G[C>T]A : 0.0201
+C[T>C]T : 0.0197
+T[C>T]G : 0.0197
+G[C>T]T : 0.0175
+A[T>C]T : 0.0167
+
 One base masked : 
 G[T>C]X : 0.4059 **
 X[T>C]A : 0.2406 *

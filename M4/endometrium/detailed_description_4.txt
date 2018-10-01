@@ -2,6 +2,28 @@ Detailed Description of M4 endometrium predicted signature 4
 
 Peaks
 
+No base masked : 
+TG[C>A]GT : 0.018
+AC[C>A]GT : 0.0161
+TC[C>A]CT : 0.0155
+TC[C>A]GT : 0.0148
+GG[C>A]GT : 0.0118
+AC[C>A]CT : 0.0117
+GC[C>A]GT : 0.011
+AG[C>A]GT : 0.0105
+AC[C>A]TT : 0.0099
+AT[C>A]GT : 0.0099
+TG[C>T]AC : 0.0096
+CC[C>A]GT : 0.0096
+AG[C>T]AG : 0.0094
+TC[C>A]TT : 0.0093
+AG[C>T]GG : 0.0093
+GG[C>T]AG : 0.0092
+GG[C>T]GG : 0.0089
+GG[C>T]AC : 0.0087
+TG[C>T]GT : 0.0085
+GC[C>A]CT : 0.0085
+
 One base masked : 
 XC[C>A]GT : 0.0514 
 XG[C>A]GT : 0.043 

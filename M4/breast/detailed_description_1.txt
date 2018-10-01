@@ -2,6 +2,28 @@ Detailed Description of M4 breast predicted signature 1
 
 Peaks
 
+No base masked : 
+small,CT : 0.0323
+small,TG : 0.0314
+small,GA : 0.0251
+small,AC : 0.0209
+small,GC : 0.016
+small,AT : 0.0138
+small,TA : 0.0104
+small,CG : 0.0089
+TG[C>T]CG : 0.0082
+TG[C>T]GG : 0.0081
+GG[C>T]TG : 0.0081
+GG[C>T]GG : 0.0078
+TG[C>T]GT : 0.0076
+GA[C>T]GG : 0.0073
+GG[C>T]CG : 0.0067
+TG[C>T]TG : 0.0067
+GG[C>T]AC : 0.0067
+TG[C>T]AG : 0.0066
+TG[C>T]AC : 0.0064
+CA[C>T]GG : 0.0063
+
 One base masked : 
 TG[C>T]XG : 0.0295 
 GG[C>T]XG : 0.0279 

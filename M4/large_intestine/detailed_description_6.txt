@@ -2,6 +2,28 @@ Detailed Description of M4 large_intestine predicted signature 6
 
 Peaks
 
+No base masked : 
+AC[C>A]GT : 0.0233
+TC[C>A]GT : 0.023
+TC[C>A]TT : 0.0179
+TG[C>A]GT : 0.0166
+CC[C>A]GT : 0.0163
+TC[C>A]CT : 0.0152
+AC[C>A]TT : 0.0151
+GC[C>A]GT : 0.0143
+AC[C>A]CT : 0.013
+GC[C>A]TT : 0.0122
+GG[C>A]GT : 0.0117
+GC[C>A]CT : 0.0108
+CC[C>A]CT : 0.0093
+AG[C>T]GG : 0.0093
+CT[C>A]GT : 0.0092
+GG[C>T]AC : 0.0091
+AG[C>A]GT : 0.0088
+GC[C>A]AC : 0.0081
+GG[C>T]GG : 0.0077
+CC[C>A]TT : 0.0075
+
 One base masked : 
 XC[C>A]GT : 0.0769 
 TC[C>A]XT : 0.0621 

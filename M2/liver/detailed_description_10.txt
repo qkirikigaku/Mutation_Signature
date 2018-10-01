@@ -2,6 +2,28 @@ Detailed Description of M2 liver predicted signature 10
 
 Peaks
 
+No base masked : 
+GG[C>T]GG : 0.0264
+TG[C>T]GG : 0.0212
+GG[C>T]CG : 0.0193
+CC[C>T]GG : 0.0184
+GG[C>T]AG : 0.016
+GA[C>T]AG : 0.016
+AG[C>T]CG : 0.016
+TC[C>T]CG : 0.016
+CA[C>T]GG : 0.0159
+GA[C>T]CG : 0.0139
+TG[C>T]CG : 0.0139
+TC[C>T]GG : 0.0136
+GA[C>T]GG : 0.0134
+CC[C>T]CG : 0.0132
+GG[C>T]TG : 0.0131
+GC[C>T]GG : 0.013
+CG[C>T]CG : 0.0128
+CG[C>T]GG : 0.0126
+AG[C>T]GG : 0.0124
+GC[C>T]CG : 0.0122
+
 One base masked : 
 GG[C>T]XG : 0.0748 
 XG[C>T]GG : 0.0726 

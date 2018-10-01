@@ -2,6 +2,28 @@ Detailed Description of M3 skin predicted signature 16
 
 Peaks
 
+No base masked : 
+C[C>A]A : 0.3278
+C[C>A]T : 0.0929
+C[C>A]G : 0.081
+C[C>A]C : 0.0639
+T[C>A]A : 0.0539
+G[C>A]A : 0.0497
+C[C>G]G : 0.0481
+C[C>G]C : 0.0469
+T[C>A]G : 0.0407
+C[C>G]A : 0.0379
+T[C>A]T : 0.0279
+A[C>A]A : 0.0269
+G[C>A]T : 0.0203
+G[C>A]G : 0.0201
+C[C>G]T : 0.0175
+T[C>A]C : 0.0151
+A[C>A]T : 0.0107
+G[C>A]C : 0.0078
+T[C>G]G : 0.0054
+A[C>A]G : 0.0031
+
 One base masked : 
 C[C>A]X : 0.5656 **
 X[C>A]A : 0.4582 **
@@ -17,12 +39,12 @@ A[C>A]X : 0.0407
 X[C>G]A : 0.0379 
 X[C>G]T : 0.0175 
 T[C>G]X : 0.0054 
-X[T>A]G : 0.0024 
 G[T>A]X : 0.0024 
-X[C>T]A : 0.0 
-X[C>T]C : 0.0 
-X[C>T]G : 0.0 
-X[C>T]T : 0.0 
+X[T>A]G : 0.0024 
+T[T>C]X : 0.0 
+G[T>G]X : 0.0 
+X[T>A]A : 0.0 
+X[T>G]A : 0.0 
 
 
 Dictionary

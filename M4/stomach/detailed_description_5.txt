@@ -2,6 +2,28 @@ Detailed Description of M4 stomach predicted signature 5
 
 Peaks
 
+No base masked : 
+AC[T>G]CT : 0.0523
+AC[T>G]GT : 0.0315
+TC[T>G]CT : 0.0273
+AC[T>G]TT : 0.026
+AC[T>G]AT : 0.0251
+AC[T>C]GT : 0.0194
+TC[T>G]GT : 0.0171
+GC[T>G]CT : 0.0167
+TC[T>G]TT : 0.016
+TC[T>G]AT : 0.0159
+TC[T>C]GT : 0.0145
+CC[T>G]GT : 0.0117
+TC[T>C]TT : 0.0115
+GC[T>G]GT : 0.0108
+AC[T>C]TT : 0.0106
+GC[T>G]TT : 0.0094
+AG[T>G]GT : 0.0091
+TT[T>G]AT : 0.0084
+CC[T>G]CT : 0.0083
+AC[T>C]AC : 0.008
+
 One base masked : 
 AC[T>G]XT : 0.1348 
 XC[T>G]CT : 0.1046 

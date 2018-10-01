@@ -2,6 +2,28 @@ Detailed Description of M3 soft_tissue predicted signature 5
 
 Peaks
 
+No base masked : 
+C[C>T]G : 0.1173
+A[C>T]G : 0.0903
+A[T>C]G : 0.0685
+G[C>T]G : 0.0551
+C[T>C]G : 0.05
+T[C>T]G : 0.0438
+G[T>C]G : 0.038
+A[C>T]C : 0.0298
+A[C>T]T : 0.0276
+A[T>C]T : 0.0237
+A[C>T]A : 0.0199
+C[C>T]T : 0.019
+C[C>G]C : 0.0187
+T[C>T]C : 0.018
+G[T>C]C : 0.0169
+C[C>T]C : 0.0166
+G[C>T]T : 0.0148
+G[T>C]T : 0.0147
+G[C>T]A : 0.0144
+T[C>T]T : 0.0143
+
 One base masked : 
 X[C>T]G : 0.3065 **
 A[C>T]X : 0.1676 

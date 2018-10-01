@@ -2,6 +2,28 @@ Detailed Description of M3 large_intestine predicted signature 4
 
 Peaks
 
+No base masked : 
+C[C>A]T : 0.2441
+G[C>A]T : 0.153
+T[C>A]T : 0.1496
+A[C>A]T : 0.0821
+G[C>T]T : 0.0443
+T[C>A]C : 0.0368
+C[C>A]C : 0.0334
+G[C>A]C : 0.0305
+C[C>A]A : 0.0174
+A[C>T]T : 0.0168
+A[C>A]C : 0.0152
+T[C>T]A : 0.0146
+T[C>A]A : 0.0143
+G[T>G]T : 0.0137
+C[T>C]C : 0.0126
+T[T>C]T : 0.012
+C[C>T]T : 0.011
+T[C>T]T : 0.0097
+T[T>C]C : 0.0095
+C[C>A]G : 0.0094
+
 One base masked : 
 X[C>A]T : 0.6287 **
 C[C>A]X : 0.3043 **

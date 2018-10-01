@@ -2,6 +2,28 @@ Detailed Description of M2 breast predicted signature 5
 
 Peaks
 
+No base masked : 
+TG[C>T]GG : 0.013
+GG[C>T]GG : 0.0129
+TG[C>T]CG : 0.0129
+TG[C>T]GT : 0.0124
+TG[C>T]TG : 0.0115
+GG[C>T]CG : 0.0107
+TG[C>T]AC : 0.0105
+GG[C>T]AC : 0.0105
+GG[C>T]TG : 0.0104
+CC[T>C]AG : 0.0098
+CA[T>C]GG : 0.0092
+GA[C>T]CG : 0.0089
+CA[C>T]GG : 0.0085
+CA[T>C]AG : 0.008
+TG[C>T]AG : 0.0078
+GG[C>T]GC : 0.0076
+AG[C>T]GG : 0.007
+GG[T>C]CA : 0.007
+AC[T>C]AG : 0.0069
+AA[T>C]AG : 0.0069
+
 One base masked : 
 TG[C>T]XG : 0.0452 
 XG[C>T]GG : 0.0371 

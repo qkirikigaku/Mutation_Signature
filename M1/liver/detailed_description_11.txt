@@ -2,6 +2,28 @@ Detailed Description of M1 liver predicted signature 11
 
 Peaks
 
+No base masked : 
+C[C>T]C : 0.2315
+G[C>T]C : 0.2211
+C[C>T]T : 0.1324
+G[C>T]T : 0.1111
+A[C>T]C : 0.0651
+G[C>T]A : 0.0463
+T[C>T]C : 0.0424
+C[C>T]A : 0.0363
+C[C>T]G : 0.0332
+G[C>T]G : 0.0326
+A[C>T]T : 0.0182
+A[C>T]G : 0.0145
+T[C>T]T : 0.0055
+A[C>T]A : 0.003
+C[C>A]C : 0.0009
+C[C>A]T : 0.0007
+A[T>C]A : 0.0006
+G[T>C]C : 0.0005
+C[C>A]G : 0.0005
+G[T>C]T : 0.0005
+
 One base masked : 
 X[C>T]C : 0.5601 **
 C[C>T]X : 0.4334 **

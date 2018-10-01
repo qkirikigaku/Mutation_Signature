@@ -2,6 +2,28 @@ Detailed Description of M2 endometrium predicted signature 4
 
 Peaks
 
+No base masked : 
+GG[C>T]GG : 0.0339
+TG[C>T]GG : 0.0329
+TG[C>T]TG : 0.0329
+TG[C>T]CG : 0.0319
+AG[C>T]CG : 0.0297
+AG[C>T]TG : 0.0294
+GG[C>T]TG : 0.0287
+AG[C>T]GG : 0.0287
+GG[C>T]AG : 0.0277
+AG[C>T]AG : 0.0262
+TG[C>T]AG : 0.0243
+GG[C>T]CG : 0.0225
+GA[C>T]TG : 0.0192
+GA[C>T]AG : 0.0175
+TG[C>T]AC : 0.0173
+AA[C>T]TG : 0.017
+GG[C>T]AC : 0.0158
+CA[C>T]TG : 0.0147
+TA[C>T]TG : 0.0122
+GA[C>T]GG : 0.0122
+
 One base masked : 
 TG[C>T]XG : 0.122 
 AG[C>T]XG : 0.1141 

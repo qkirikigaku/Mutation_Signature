@@ -2,6 +2,28 @@ Detailed Description of M1 large_intestine predicted signature 10
 
 Peaks
 
+No base masked : 
+G[T>C]C : 0.1584
+G[C>T]C : 0.1086
+G[T>C]G : 0.0915
+G[C>A]T : 0.0878
+C[T>G]T : 0.0838
+G[T>G]T : 0.0809
+G[T>G]C : 0.0456
+C[T>G]G : 0.0394
+G[C>A]C : 0.0365
+C[T>G]C : 0.0351
+G[C>T]T : 0.0318
+G[T>G]G : 0.0305
+T[T>G]T : 0.0256
+G[T>C]T : 0.0254
+A[T>C]C : 0.0165
+C[C>T]C : 0.0124
+G[T>G]A : 0.0123
+A[T>G]T : 0.0122
+G[C>A]A : 0.0121
+T[C>A]C : 0.0118
+
 One base masked : 
 G[T>C]X : 0.2768 *
 X[T>G]T : 0.2025 *

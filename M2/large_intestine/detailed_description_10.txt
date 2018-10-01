@@ -2,6 +2,28 @@ Detailed Description of M2 large_intestine predicted signature 10
 
 Peaks
 
+No base masked : 
+CA[C>T]GG : 0.0313
+GC[C>T]CG : 0.0281
+GA[C>T]GG : 0.0271
+CA[C>T]CG : 0.0246
+GG[C>T]GG : 0.0244
+TC[C>T]CG : 0.024
+TC[C>T]GG : 0.0233
+GA[C>T]CG : 0.023
+CC[C>T]GG : 0.0224
+TG[C>T]GG : 0.0218
+CC[C>T]CG : 0.0206
+GA[C>T]AG : 0.0198
+AG[C>T]GG : 0.0195
+AG[C>T]CG : 0.0192
+GG[C>T]CG : 0.0183
+CA[C>T]TG : 0.0175
+TG[C>T]CG : 0.0172
+CT[C>T]GG : 0.0168
+AA[C>T]GG : 0.0168
+GC[C>T]GG : 0.0166
+
 One base masked : 
 XC[C>T]CG : 0.089 
 CA[C>T]XG : 0.0886 

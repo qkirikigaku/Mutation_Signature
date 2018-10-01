@@ -2,6 +2,28 @@ Detailed Description of M1 skin predicted signature 9
 
 Peaks
 
+No base masked : 
+T[T>A]T : 0.2714
+T[T>C]T : 0.1423
+A[T>A]T : 0.117
+T[T>A]C : 0.1018
+C[T>A]T : 0.0937
+T[T>G]C : 0.0678
+T[T>C]A : 0.0523
+T[T>C]G : 0.0483
+C[T>A]C : 0.043
+G[T>A]T : 0.0322
+T[T>G]A : 0.0155
+T[T>G]G : 0.0147
+A[T>C]C : 0.0
+T[T>G]T : 0.0
+T[C>G]G : 0.0
+G[T>G]C : 0.0
+A[C>T]C : 0.0
+A[C>T]G : 0.0
+A[T>C]T : 0.0
+C[C>T]C : 0.0
+
 One base masked : 
 X[T>A]T : 0.5143 **
 T[T>A]X : 0.3732 **
@@ -17,12 +39,12 @@ X[T>C]G : 0.0483
 G[T>A]X : 0.0322 
 X[T>G]A : 0.0155 
 X[T>G]G : 0.0147 
-X[C>A]A : 0.0 
-X[C>A]C : 0.0 
-X[C>A]G : 0.0 
-X[C>A]T : 0.0 
-X[C>G]A : 0.0 
+C[T>C]X : 0.0 
+C[T>G]X : 0.0 
+X[C>T]T : 0.0 
 X[C>G]C : 0.0 
+A[C>G]X : 0.0 
+A[T>C]X : 0.0 
 
 
 Dictionary

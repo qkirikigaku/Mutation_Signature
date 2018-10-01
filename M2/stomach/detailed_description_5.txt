@@ -2,6 +2,28 @@ Detailed Description of M2 stomach predicted signature 5
 
 Peaks
 
+No base masked : 
+GG[T>C]CA : 0.0151
+TG[T>C]TA : 0.0111
+AG[T>C]CA : 0.0108
+GG[T>C]GG : 0.0101
+TG[T>C]CA : 0.0098
+AG[T>C]TA : 0.0086
+GG[T>C]GA : 0.0084
+GG[T>C]TA : 0.0079
+TG[T>C]CT : 0.0078
+GG[T>C]AG : 0.0076
+TG[T>C]GT : 0.0073
+TG[T>C]GA : 0.0072
+GG[T>C]TT : 0.0072
+AG[T>C]TT : 0.007
+TG[T>C]CC : 0.0069
+GG[T>C]CT : 0.0069
+AG[T>C]GA : 0.0066
+GG[T>C]CG : 0.0065
+GG[T>C]GT : 0.0064
+GG[T>C]CC : 0.0064
+
 One base masked : 
 XG[T>C]CA : 0.0392 
 GG[T>C]XA : 0.0357 

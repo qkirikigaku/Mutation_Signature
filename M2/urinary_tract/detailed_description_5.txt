@@ -2,6 +2,28 @@ Detailed Description of M2 urinary_tract predicted signature 5
 
 Peaks
 
+No base masked : 
+CT[C>T]GA : 0.0112
+TT[C>T]GA : 0.0081
+CT[C>G]AA : 0.008
+TT[C>T]TA : 0.0073
+TT[C>T]TT : 0.0065
+CT[C>G]TT : 0.0059
+CT[C>G]GT : 0.0057
+TT[C>G]AA : 0.0057
+AT[C>T]AA : 0.0052
+AT[C>T]TA : 0.0049
+CT[C>G]GA : 0.0048
+TT[C>G]TT : 0.0048
+AT[C>G]TT : 0.0046
+AT[C>G]AA : 0.0046
+TT[C>T]AA : 0.0045
+CT[C>G]AC : 0.0044
+TC[C>T]GA : 0.0042
+TT[C>T]GT : 0.0041
+CA[T>C]GA : 0.0041
+GT[C>T]TA : 0.004
+
 One base masked : 
 XT[C>T]GA : 0.0239 
 TT[C>T]XA : 0.0236 

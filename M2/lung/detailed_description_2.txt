@@ -2,6 +2,28 @@ Detailed Description of M2 lung predicted signature 2
 
 Peaks
 
+No base masked : 
+TT[C>T]TC : 0.0475
+TC[C>T]TC : 0.0266
+CT[C>T]TC : 0.0246
+TT[C>T]CC : 0.0231
+TC[C>T]TT : 0.0229
+TT[C>T]AC : 0.0196
+TT[C>T]TG : 0.0174
+CT[C>T]CC : 0.0171
+TC[C>T]AC : 0.0166
+TT[C>T]TA : 0.0165
+TC[C>T]CC : 0.0151
+CT[C>T]AC : 0.0145
+AT[C>T]CC : 0.0143
+TT[C>T]TT : 0.0138
+AT[C>T]TC : 0.0129
+TC[C>T]TA : 0.012
+TC[C>T]GT : 0.0116
+AT[C>T]TG : 0.0114
+AT[C>T]AC : 0.0114
+TC[C>T]CT : 0.0107
+
 One base masked : 
 TT[C>T]XC : 0.0972 
 TT[C>T]TX : 0.0952 

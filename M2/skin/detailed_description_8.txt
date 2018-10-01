@@ -2,6 +2,28 @@ Detailed Description of M2 skin predicted signature 8
 
 Peaks
 
+No base masked : 
+CA[C>T]AC : 0.0204
+CT[C>T]AC : 0.0165
+CA[C>T]CC : 0.0156
+CA[C>T]TC : 0.0155
+TC[C>T]CT : 0.0154
+CA[C>T]TT : 0.0137
+GA[C>T]TC : 0.0126
+TT[C>T]TT : 0.0123
+GC[C>T]TC : 0.0123
+AT[C>T]TT : 0.0122
+TG[C>T]TC : 0.0122
+TT[C>T]AC : 0.012
+GC[C>T]AC : 0.0117
+GT[C>T]TC : 0.0112
+GA[C>T]AC : 0.011
+GC[C>T]CC : 0.0108
+GA[C>T]TT : 0.0108
+AA[C>T]TT : 0.0108
+GG[C>T]GT : 0.0104
+AA[C>T]AC : 0.0102
+
 One base masked : 
 CA[C>T]XC : 0.0574 
 CX[C>T]AC : 0.052 

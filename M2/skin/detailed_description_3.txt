@@ -2,6 +2,28 @@ Detailed Description of M2 skin predicted signature 3
 
 Peaks
 
+No base masked : 
+TT[C>T]TC : 0.1161
+TT[C>T]CC : 0.0581
+TT[C>T]AC : 0.0509
+TT[C>T]TA : 0.0423
+TT[C>T]TG : 0.037
+AT[C>T]TC : 0.0362
+AT[C>T]TA : 0.036
+AT[C>T]TG : 0.0294
+TT[C>T]AG : 0.0245
+AT[C>T]CC : 0.0244
+AT[C>T]AC : 0.0212
+CT[C>T]TC : 0.0174
+TT[C>T]GG : 0.0173
+TT[C>T]GA : 0.0171
+TC[C>T]TA : 0.0162
+AT[C>T]CG : 0.0155
+AT[C>T]AG : 0.0151
+AT[C>T]CA : 0.0146
+TC[C>T]GA : 0.0143
+TT[C>T]CA : 0.0136
+
 One base masked : 
 TT[C>T]XC : 0.2305 **
 TT[C>T]TX : 0.2009 **

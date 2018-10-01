@@ -2,27 +2,49 @@ Detailed Description of M1 skin predicted signature 5
 
 Peaks
 
+No base masked : 
+G[C>T]T : 0.9493
+C[T>A]C : 0.0217
+C[C>A]G : 0.0173
+C[T>G]C : 0.0117
+A[T>C]C : 0.0
+T[T>G]T : 0.0
+T[T>C]A : 0.0
+T[T>A]T : 0.0
+T[C>G]G : 0.0
+G[T>G]C : 0.0
+A[C>T]C : 0.0
+A[C>T]G : 0.0
+A[T>C]T : 0.0
+C[C>T]C : 0.0
+C[T>G]G : 0.0
+T[C>G]C : 0.0
+G[T>A]C : 0.0
+G[T>A]T : 0.0
+G[C>A]G : 0.0
+A[C>A]G : 0.0
+
 One base masked : 
 X[C>T]T : 0.9493 **
 G[C>T]X : 0.9493 **
-X[T>A]C : 0.0217 
 C[T>A]X : 0.0217 
-X[C>A]G : 0.0173 
+X[T>A]C : 0.0217 
 C[C>A]X : 0.0173 
-X[T>G]C : 0.0117 
+X[C>A]G : 0.0173 
 C[T>G]X : 0.0117 
-X[C>A]A : 0.0 
-X[C>A]C : 0.0 
-X[C>A]T : 0.0 
-X[C>G]A : 0.0 
+X[T>G]C : 0.0117 
+C[T>C]X : 0.0 
+T[T>G]X : 0.0 
+X[T>A]T : 0.0 
 X[C>G]C : 0.0 
-X[C>G]G : 0.0 
-X[C>G]T : 0.0 
-X[C>T]A : 0.0 
-X[C>T]C : 0.0 
-X[C>T]G : 0.0 
-X[T>A]A : 0.0 
+T[T>C]X : 0.0 
+A[C>G]X : 0.0 
+A[T>C]X : 0.0 
+X[C>A]C : 0.0 
 X[T>A]G : 0.0 
+X[C>G]T : 0.0 
+A[T>G]X : 0.0 
+X[C>T]C : 0.0 
 
 
 Dictionary

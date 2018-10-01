@@ -2,6 +2,28 @@ Detailed Description of M1 lung predicted signature 5
 
 Peaks
 
+No base masked : 
+A[T>C]G : 0.0371
+C[T>C]G : 0.0309
+C[C>T]A : 0.0256
+C[C>T]G : 0.0254
+G[C>T]A : 0.0221
+C[T>C]T : 0.0217
+G[T>C]G : 0.0212
+A[T>C]T : 0.021
+A[T>C]A : 0.0206
+G[C>A]G : 0.0196
+A[C>T]G : 0.0196
+G[C>A]C : 0.019
+G[T>C]A : 0.0188
+G[C>T]C : 0.0185
+C[T>A]G : 0.0178
+A[C>G]A : 0.0166
+A[C>A]C : 0.016
+G[T>A]G : 0.016
+C[T>C]A : 0.0158
+A[C>T]C : 0.0156
+
 One base masked : 
 X[T>C]G : 0.1024 
 A[T>C]X : 0.0897 

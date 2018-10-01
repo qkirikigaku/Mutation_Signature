@@ -2,6 +2,28 @@ Detailed Description of M2 lung predicted signature 5
 
 Peaks
 
+No base masked : 
+GG[C>T]GG : 0.0208
+TG[C>T]GG : 0.0204
+GG[C>T]AG : 0.0159
+GG[C>T]TG : 0.0156
+GG[C>T]CG : 0.0152
+CA[C>T]GG : 0.0107
+TG[C>T]TG : 0.0103
+CC[C>T]GG : 0.0098
+TG[C>T]CG : 0.0096
+AG[C>T]GG : 0.0094
+TG[C>T]GT : 0.0087
+GA[C>T]AG : 0.0084
+GA[C>T]GG : 0.008
+TG[C>T]GA : 0.0079
+TG[C>T]AG : 0.0079
+GC[C>T]GG : 0.0075
+AG[C>T]CG : 0.0069
+GG[C>T]GT : 0.0068
+GG[C>T]AC : 0.0068
+TC[C>T]CG : 0.0066
+
 One base masked : 
 GG[C>T]XG : 0.0675 
 XG[C>T]GG : 0.0545 

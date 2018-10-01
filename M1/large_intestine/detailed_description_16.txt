@@ -2,6 +2,28 @@ Detailed Description of M1 large_intestine predicted signature 16
 
 Peaks
 
+No base masked : 
+A[C>T]G : 0.4291
+C[C>T]G : 0.4202
+G[C>T]G : 0.0789
+T[C>T]G : 0.0462
+A[C>T]C : 0.0057
+C[C>T]A : 0.0049
+T[T>C]C : 0.0034
+T[C>T]A : 0.0034
+A[C>T]A : 0.0024
+G[C>G]C : 0.0019
+C[T>G]C : 0.0012
+T[C>G]C : 0.0009
+C[T>C]T : 0.0006
+A[T>A]A : 0.0005
+A[C>G]A : 0.0004
+A[T>G]G : 0.0004
+A[T>C]A : 0.0
+G[C>A]A : 0.0
+C[T>G]A : 0.0
+G[T>A]A : 0.0
+
 One base masked : 
 X[C>T]G : 0.9744 **
 A[C>T]X : 0.4372 **
@@ -10,19 +32,19 @@ G[C>T]X : 0.0789
 T[C>T]X : 0.0496 
 X[C>T]A : 0.0107 
 X[C>T]C : 0.0057 
-X[T>C]C : 0.0034 
 T[T>C]X : 0.0034 
+X[T>C]C : 0.0034 
 X[C>G]C : 0.0028 
 G[C>G]X : 0.0019 
-X[T>G]C : 0.0012 
 C[T>G]X : 0.0012 
+X[T>G]C : 0.0012 
 T[C>G]X : 0.0009 
-X[T>C]T : 0.0006 
 C[T>C]X : 0.0006 
-X[T>A]A : 0.0005 
+X[T>C]T : 0.0006 
 A[T>A]X : 0.0005 
-X[C>G]A : 0.0004 
+X[T>A]A : 0.0005 
 A[C>G]X : 0.0004 
+X[C>G]A : 0.0004 
 
 
 Dictionary

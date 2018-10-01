@@ -2,6 +2,28 @@ Detailed Description of M4 prostate predicted signature 1
 
 Peaks
 
+No base masked : 
+small,TG : 0.0113
+small,TA : 0.0094
+small,GA : 0.0073
+small,AA : 0.0064
+small,AC : 0.0063
+CC[C>T]GA : 0.0062
+TG[C>T]AC : 0.0061
+TC[C>T]GA : 0.0059
+CA[C>T]GG : 0.0056
+TG[C>T]GT : 0.0056
+TG[C>T]GG : 0.0051
+TG[C>T]CC : 0.005
+CT[C>T]AC : 0.005
+CT[C>T]CC : 0.005
+TT[C>T]TT : 0.0047
+CC[C>T]GG : 0.0047
+TC[C>T]GG : 0.0047
+TC[C>T]GT : 0.0046
+CA[C>T]GA : 0.0044
+TT[C>T]TA : 0.0044
+
 One base masked : 
 XC[C>T]GA : 0.0178 
 TC[C>T]GX : 0.0169 

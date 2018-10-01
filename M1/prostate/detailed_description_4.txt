@@ -2,6 +2,28 @@ Detailed Description of M1 prostate predicted signature 4
 
 Peaks
 
+No base masked : 
+G[C>T]G : 0.0816
+C[C>T]G : 0.0703
+C[C>A]T : 0.0636
+G[C>T]C : 0.0616
+G[T>C]A : 0.0607
+G[T>C]C : 0.0606
+G[T>C]G : 0.0564
+C[T>C]G : 0.0522
+G[C>T]T : 0.0446
+A[C>T]G : 0.0356
+G[C>T]A : 0.0337
+A[T>C]G : 0.0334
+G[T>C]T : 0.0283
+T[T>C]G : 0.0263
+A[T>A]C : 0.0243
+T[T>C]A : 0.0243
+T[C>T]C : 0.0231
+T[T>C]C : 0.022
+A[T>C]A : 0.0196
+C[T>C]C : 0.0173
+
 One base masked : 
 G[C>T]X : 0.2215 *
 G[T>C]X : 0.206 *

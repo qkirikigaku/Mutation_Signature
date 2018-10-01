@@ -2,6 +2,28 @@ Detailed Description of M2 skin predicted signature 5
 
 Peaks
 
+No base masked : 
+TG[C>T]GG : 0.0123
+GG[C>T]GG : 0.0115
+GG[C>T]CG : 0.0097
+CA[C>T]GG : 0.0094
+GC[C>T]CG : 0.0094
+CC[C>T]GG : 0.0091
+TC[C>T]GG : 0.0091
+GC[C>T]GG : 0.0087
+TG[C>T]CG : 0.0083
+GA[C>T]GG : 0.0077
+AG[C>T]GG : 0.0076
+GG[C>T]AG : 0.0076
+GA[C>T]CG : 0.007
+GG[C>T]TG : 0.0068
+GG[C>T]CC : 0.0066
+CA[C>T]CG : 0.0065
+TC[C>T]AC : 0.0063
+AA[C>T]GG : 0.0061
+AG[C>T]CG : 0.0059
+GG[T>C]GT : 0.0058
+
 One base masked : 
 XG[C>T]GG : 0.0362 
 GG[C>T]XG : 0.0356 

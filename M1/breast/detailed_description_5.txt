@@ -2,6 +2,28 @@ Detailed Description of M1 breast predicted signature 5
 
 Peaks
 
+No base masked : 
+C[C>T]G : 0.0821
+A[C>T]G : 0.0662
+G[C>T]G : 0.0403
+C[C>T]T : 0.0299
+T[C>G]T : 0.0271
+A[C>A]C : 0.0271
+A[T>C]A : 0.0257
+A[C>T]A : 0.0224
+G[C>G]T : 0.0206
+C[C>T]A : 0.0194
+A[C>G]T : 0.0186
+A[C>A]A : 0.0183
+T[C>G]C : 0.018
+G[C>G]A : 0.018
+T[C>A]C : 0.0172
+A[T>C]G : 0.0168
+G[C>G]C : 0.0161
+T[C>T]A : 0.0154
+C[C>A]C : 0.0152
+G[C>A]A : 0.0148
+
 One base masked : 
 X[C>T]G : 0.1917 
 C[C>T]X : 0.1425 

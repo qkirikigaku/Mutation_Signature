@@ -10,7 +10,7 @@ def main():
     dic_name = 'M' + args[1]
     cancer_type = args[2]
 
-    directory = '/home/taro/project/Mutation_Signature/' + dic_name + '/' + cancer_type + '/'
+    directory = '/Users/tarom/project/Mutation_Signature/' + dic_name + '/' + cancer_type + '/'
 
     num_predicted = 0
     for x in os.listdir(directory):
@@ -99,6 +99,17 @@ def write_peaks(detailed_description, proportion, dictionary, dic_name):
     subs = ['[C>A]','[C>G]','[C>T]','[T>A]','[T>C]','[T>G]']
     
     detailed_description.write('Peaks\n\n')
+    detailed_description.write('No base masked : \n')
+    not_masked_obj = {}
+    for i in range(len(dictionary)):
+        not_masked_obj.update({dictionary[i]:proportion[i]})
+    count = 0
+    for key,value in sorted(not_masked_obj.items(), key=lambda x: -x[1]):
+        if(count == 20): break
+        detailed_description.write(str(key) + ' : ' + str(np.round(value, 4)) + '\n')
+        count += 1
+    detailed_description.write('\n')
+
     detailed_description.write('One base masked : \n')
     if dic_name in ['M1', 'M3']:
         masked_dic = []

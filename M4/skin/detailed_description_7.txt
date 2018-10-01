@@ -2,6 +2,28 @@ Detailed Description of M4 skin predicted signature 7
 
 Peaks
 
+No base masked : 
+TT[C>T]TC : 0.1114
+TT[C>T]CC : 0.0566
+TT[C>T]AC : 0.0472
+TT[C>T]TA : 0.0442
+AT[C>T]TA : 0.038
+AT[C>T]TC : 0.036
+AT[C>T]TG : 0.0356
+TT[C>T]TG : 0.0262
+AT[C>T]CC : 0.0244
+AT[C>T]AG : 0.0222
+AT[C>T]AC : 0.0218
+TT[C>T]AG : 0.0215
+AT[C>T]CG : 0.0208
+AT[C>T]CA : 0.0196
+TT[C>T]GA : 0.0194
+TC[C>T]GT : 0.0191
+TT[C>T]TT : 0.0168
+TT[C>T]CA : 0.0162
+TC[C>T]TT : 0.0153
+TC[C>T]GA : 0.0148
+
 One base masked : 
 TT[C>T]XC : 0.224 **
 TT[C>T]TX : 0.1985 *

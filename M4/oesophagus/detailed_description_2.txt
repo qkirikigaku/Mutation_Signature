@@ -2,6 +2,28 @@ Detailed Description of M4 oesophagus predicted signature 2
 
 Peaks
 
+No base masked : 
+CT[C>T]GG : 0.0196
+CT[C>T]GA : 0.0187
+AT[C>G]AA : 0.0168
+TT[C>T]GA : 0.0158
+CT[C>T]CG : 0.0132
+TT[C>T]AA : 0.012
+CT[C>G]GA : 0.011
+GG[C>T]GG : 0.011
+CT[C>G]AC : 0.0109
+TT[C>T]TA : 0.0103
+TT[C>T]GT : 0.0103
+TG[C>T]CG : 0.0097
+GA[C>T]AG : 0.009
+TT[C>G]AT : 0.0082
+CT[C>T]TA : 0.0082
+CT[C>G]GT : 0.0079
+CT[C>G]TT : 0.0076
+AT[C>T]GA : 0.0076
+CT[C>T]TG : 0.007
+GT[C>T]GG : 0.0064
+
 One base masked : 
 XT[C>T]GA : 0.0466 
 CT[C>T]GX : 0.0443 

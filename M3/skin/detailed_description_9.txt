@@ -2,27 +2,49 @@ Detailed Description of M3 skin predicted signature 9
 
 Peaks
 
+No base masked : 
+T[C>T]G : 0.9741
+T[C>T]C : 0.0193
+T[C>T]A : 0.0066
+G[T>G]G : 0.0
+T[T>G]C : 0.0
+G[T>A]T : 0.0
+C[T>C]A : 0.0
+C[T>A]T : 0.0
+C[C>T]C : 0.0
+C[T>A]A : 0.0
+A[C>A]T : 0.0
+C[C>A]C : 0.0
+T[T>G]A : 0.0
+T[C>G]T : 0.0
+A[T>A]A : 0.0
+small,CT : 0.0
+A[C>A]A : 0.0
+A[C>A]C : 0.0
+G[T>G]A : 0.0
+C[T>G]G : 0.0
+
 One base masked : 
 T[C>T]X : 1.0 **
 X[C>T]G : 0.9741 **
 X[C>T]C : 0.0193 
 X[C>T]A : 0.0066 
-X[C>A]A : 0.0 
-X[C>A]C : 0.0 
-X[C>A]G : 0.0 
-X[C>A]T : 0.0 
-X[C>G]A : 0.0 
-X[C>G]C : 0.0 
-X[C>G]G : 0.0 
-X[C>G]T : 0.0 
-X[C>T]T : 0.0 
+T[T>C]X : 0.0 
+G[T>G]X : 0.0 
 X[T>A]A : 0.0 
-X[T>A]C : 0.0 
-X[T>A]G : 0.0 
+X[C>G]G : 0.0 
+X[C>A]T : 0.0 
+X[T>G]A : 0.0 
+C[C>G]X : 0.0 
 X[T>A]T : 0.0 
-X[T>C]A : 0.0 
+X[C>A]C : 0.0 
+C[T>A]X : 0.0 
+G[T>A]X : 0.0 
+A[T>C]X : 0.0 
+G[C>T]X : 0.0 
 X[T>C]C : 0.0 
-X[T>C]G : 0.0 
+A[C>T]X : 0.0 
+T[C>G]X : 0.0 
 
 
 Dictionary

@@ -2,6 +2,28 @@ Detailed Description of M3 liver predicted signature 2
 
 Peaks
 
+No base masked : 
+G[C>T]C : 0.1906
+G[C>T]G : 0.166
+G[C>T]A : 0.0749
+C[C>A]T : 0.07
+G[T>C]A : 0.057
+T[C>T]G : 0.0464
+C[C>A]C : 0.0392
+T[T>C]G : 0.0366
+G[T>C]C : 0.0358
+T[T>C]A : 0.034
+G[C>T]T : 0.0334
+C[C>A]G : 0.0229
+T[C>A]T : 0.0181
+A[C>T]A : 0.0177
+T[C>T]A : 0.0161
+A[T>A]A : 0.0154
+C[T>A]T : 0.0138
+T[C>T]T : 0.0137
+T[C>T]C : 0.0095
+C[T>A]G : 0.0093
+
 One base masked : 
 G[C>T]X : 0.4649 **
 X[C>T]G : 0.2248 *

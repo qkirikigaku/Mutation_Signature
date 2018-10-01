@@ -2,6 +2,28 @@ Detailed Description of M3 breast predicted signature 6
 
 Peaks
 
+No base masked : 
+C[C>T]G : 0.087
+T[C>G]T : 0.0815
+G[C>T]G : 0.0673
+A[C>T]G : 0.0608
+T[C>T]A : 0.0592
+T[C>A]A : 0.0429
+A[C>A]C : 0.0388
+T[C>T]T : 0.0346
+G[C>G]T : 0.033
+T[C>G]A : 0.0259
+C[C>T]A : 0.0256
+T[C>T]G : 0.0254
+A[T>C]A : 0.0247
+A[C>A]A : 0.0247
+T[C>A]T : 0.0238
+T[C>A]C : 0.0211
+A[C>T]A : 0.02
+T[C>G]C : 0.0198
+T[C>T]C : 0.0193
+C[C>T]T : 0.0181
+
 One base masked : 
 X[C>T]G : 0.2405 *
 C[C>T]X : 0.1437 

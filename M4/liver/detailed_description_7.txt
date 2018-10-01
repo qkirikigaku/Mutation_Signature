@@ -2,6 +2,28 @@ Detailed Description of M4 liver predicted signature 7
 
 Peaks
 
+No base masked : 
+TC[T>C]CT : 0.0117
+TC[T>C]GG : 0.011
+TC[T>C]TT : 0.0107
+TA[T>C]AG : 0.0085
+TA[T>C]GG : 0.0081
+AC[C>A]AC : 0.0078
+TA[T>C]CA : 0.0077
+GC[T>C]TC : 0.007
+TC[T>C]CG : 0.0068
+CA[T>C]GA : 0.0066
+CC[T>C]AC : 0.0065
+TC[T>C]AC : 0.0061
+CC[C>T]GA : 0.006
+AC[C>A]CG : 0.006
+GA[T>C]AG : 0.006
+GA[T>C]CA : 0.0058
+GA[T>C]GA : 0.0056
+TT[T>C]GG : 0.0056
+CC[T>C]TC : 0.0055
+TC[T>C]TC : 0.0055
+
 One base masked : 
 TX[T>C]GG : 0.0247 
 TC[T>C]CX : 0.0225 

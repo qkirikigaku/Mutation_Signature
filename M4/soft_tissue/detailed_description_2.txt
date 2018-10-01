@@ -2,6 +2,28 @@ Detailed Description of M4 soft_tissue predicted signature 2
 
 Peaks
 
+No base masked : 
+small,TG : 0.0067
+CC[C>A]AC : 0.0053
+CT[C>A]AC : 0.0051
+CC[C>A]GA : 0.005
+AG[C>A]GA : 0.0045
+GC[C>A]CG : 0.0043
+small,GA : 0.0043
+small,GC : 0.0042
+GC[C>A]AC : 0.0041
+small,CC : 0.0041
+CC[C>A]TA : 0.0038
+AC[C>A]GT : 0.0037
+CT[C>A]TC : 0.0036
+CC[C>A]GT : 0.0035
+CC[C>A]GG : 0.0035
+CA[C>A]GA : 0.0035
+small,AA : 0.0035
+small,CT : 0.0034
+AC[C>A]AC : 0.0033
+AG[C>A]CG : 0.0033
+
 One base masked : 
 XC[C>A]AC : 0.0151 
 CC[C>A]GX : 0.0144 

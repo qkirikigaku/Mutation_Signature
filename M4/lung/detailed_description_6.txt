@@ -2,6 +2,28 @@ Detailed Description of M4 lung predicted signature 6
 
 Peaks
 
+No base masked : 
+CT[C>A]AC : 0.0075
+CC[C>A]GA : 0.0061
+CC[C>A]AC : 0.0052
+CA[C>A]AC : 0.005
+CC[C>A]GT : 0.005
+GC[C>A]TC : 0.0049
+CT[C>A]TC : 0.0049
+AG[C>A]GA : 0.0049
+GC[C>A]GA : 0.0048
+GC[C>A]AC : 0.0046
+CA[C>A]GA : 0.0044
+CC[C>A]GG : 0.0044
+TG[C>A]GA : 0.0043
+GT[C>A]TC : 0.0043
+AC[C>A]GT : 0.0042
+AG[C>A]AC : 0.0039
+GC[C>A]GT : 0.0038
+GC[C>A]CA : 0.0038
+GT[C>A]AC : 0.0038
+CC[C>A]CA : 0.0038
+
 One base masked : 
 CX[C>A]AC : 0.0185 
 CC[C>A]GX : 0.018 

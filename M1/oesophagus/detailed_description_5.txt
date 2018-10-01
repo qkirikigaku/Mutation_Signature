@@ -2,6 +2,28 @@ Detailed Description of M1 oesophagus predicted signature 5
 
 Peaks
 
+No base masked : 
+G[C>T]G : 0.1979
+G[C>T]C : 0.0943
+C[C>A]T : 0.0553
+A[T>C]G : 0.0503
+G[C>T]A : 0.0465
+A[T>C]A : 0.0406
+G[C>T]T : 0.0398
+C[C>A]C : 0.0387
+A[C>T]G : 0.0231
+C[C>T]G : 0.0231
+G[C>A]C : 0.022
+C[T>C]G : 0.0219
+A[C>T]A : 0.0208
+C[C>T]T : 0.0189
+C[T>C]T : 0.0176
+T[C>A]T : 0.0175
+C[T>C]C : 0.0166
+T[C>T]G : 0.016
+G[T>C]G : 0.0156
+G[C>A]T : 0.0152
+
 One base masked : 
 G[C>T]X : 0.3786 **
 X[C>T]G : 0.2602 *

@@ -2,6 +2,28 @@ Detailed Description of M3 skin predicted signature 22
 
 Peaks
 
+No base masked : 
+A[T>C]T : 0.0786
+A[C>A]C : 0.0742
+G[C>G]C : 0.0615
+A[C>T]G : 0.0535
+C[C>G]T : 0.0517
+A[C>G]T : 0.0504
+G[C>G]T : 0.0502
+A[C>G]C : 0.046
+A[T>C]G : 0.044
+A[C>G]A : 0.0425
+G[C>A]C : 0.0419
+A[C>A]G : 0.0378
+G[T>G]T : 0.0368
+T[T>C]C : 0.0345
+A[T>G]A : 0.0325
+A[T>C]A : 0.0315
+G[C>G]A : 0.0314
+A[C>A]T : 0.0282
+T[C>G]C : 0.028
+G[T>G]A : 0.0278
+
 One base masked : 
 A[C>G]X : 0.1564 
 A[T>C]X : 0.1541 

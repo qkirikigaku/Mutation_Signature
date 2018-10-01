@@ -2,6 +2,28 @@ Detailed Description of M3 upper_aerodigestive_tract predicted signature 4
 
 Peaks
 
+No base masked : 
+C[C>T]G : 0.0879
+G[C>T]G : 0.0704
+A[C>T]G : 0.0658
+T[C>T]G : 0.0486
+small,TG : 0.0303
+small,GA : 0.0267
+A[T>C]G : 0.0266
+G[T>C]G : 0.0243
+small,CT : 0.0218
+A[T>C]T : 0.0199
+small,AC : 0.0183
+G[C>T]C : 0.0181
+T[C>T]C : 0.0177
+G[C>G]C : 0.0171
+T[C>G]C : 0.0164
+C[T>C]G : 0.0162
+G[C>T]A : 0.016
+A[T>C]A : 0.0154
+G[C>A]C : 0.0148
+C[C>T]A : 0.0136
+
 One base masked : 
 X[C>T]G : 0.2726 *
 C[C>T]X : 0.1175 

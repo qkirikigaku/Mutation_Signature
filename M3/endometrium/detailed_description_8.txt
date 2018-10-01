@@ -2,6 +2,28 @@ Detailed Description of M3 endometrium predicted signature 8
 
 Peaks
 
+No base masked : 
+G[C>A]C : 0.1356
+G[C>A]A : 0.1049
+G[C>A]T : 0.0619
+G[C>A]G : 0.0595
+T[C>A]C : 0.0567
+C[C>A]A : 0.0563
+A[C>A]C : 0.0542
+T[C>A]A : 0.0503
+T[C>A]T : 0.0411
+A[C>A]A : 0.0388
+A[C>A]G : 0.0378
+A[C>A]T : 0.0351
+A[C>T]G : 0.0337
+G[C>T]G : 0.027
+C[C>A]T : 0.0213
+C[C>T]A : 0.0194
+T[C>T]G : 0.0178
+T[C>A]G : 0.0165
+C[C>A]C : 0.0164
+G[C>G]C : 0.0105
+
 One base masked : 
 G[C>A]X : 0.362 **
 X[C>A]C : 0.2628 *

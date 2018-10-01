@@ -2,6 +2,28 @@ Detailed Description of M1 stomach predicted signature 5
 
 Peaks
 
+No base masked : 
+T[T>C]T : 0.0549
+T[T>C]C : 0.0468
+A[T>C]A : 0.0437
+T[T>C]G : 0.0433
+G[T>C]A : 0.0385
+C[T>C]T : 0.0383
+A[T>C]T : 0.0382
+C[T>C]G : 0.0375
+T[T>C]A : 0.0374
+A[T>C]G : 0.0346
+G[T>C]G : 0.0345
+A[T>C]C : 0.034
+G[T>C]T : 0.0332
+C[T>C]C : 0.0328
+C[C>T]T : 0.0318
+G[T>C]C : 0.0301
+C[C>T]G : 0.0297
+T[C>T]C : 0.0296
+T[C>T]T : 0.0292
+C[C>T]C : 0.0269
+
 One base masked : 
 T[T>C]X : 0.1824 
 X[T>C]T : 0.1647 

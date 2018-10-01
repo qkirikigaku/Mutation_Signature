@@ -2,6 +2,28 @@ Detailed Description of M4 upper_aerodigestive_tract predicted signature 3
 
 Peaks
 
+No base masked : 
+TT[C>T]GA : 0.0276
+CT[C>G]GA : 0.0238
+CT[C>T]GA : 0.0227
+CT[C>T]TA : 0.0212
+CT[C>G]GT : 0.0201
+CT[C>G]AA : 0.02
+TT[C>G]TT : 0.0195
+CT[C>G]TT : 0.0172
+TT[C>G]AA : 0.0164
+AT[C>G]AA : 0.0158
+TT[C>T]GT : 0.0154
+TT[C>T]TA : 0.015
+CT[C>G]AC : 0.0146
+AT[C>T]GA : 0.0143
+CT[C>G]TA : 0.0129
+TT[C>T]CT : 0.0127
+CT[C>T]GG : 0.0125
+TT[C>G]GT : 0.012
+AT[C>G]GT : 0.012
+TT[C>G]GA : 0.0118
+
 One base masked : 
 XT[C>T]GA : 0.0705 
 CT[C>G]XA : 0.0645 
