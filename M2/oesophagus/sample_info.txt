@@ -1,0 +1,29 @@
+Sample ID	Sample name	Site subtype 1	Primary histology	Histology subtype 1
+Sample_1	ESCC_BICR_060T	NS	carcinoma	squamous_cell_carcinoma
+Sample_2	ESCC_170	NS	carcinoma	squamous_cell_carcinoma
+Sample_3	ESCC_143	NS	carcinoma	squamous_cell_carcinoma
+Sample_4	ESCC_11	NS	carcinoma	squamous_cell_carcinoma
+Sample_5	ESCC_158	NS	carcinoma	squamous_cell_carcinoma
+Sample_6	ESCC_25	NS	carcinoma	squamous_cell_carcinoma
+Sample_7	ESCC_4	NS	carcinoma	squamous_cell_carcinoma
+Sample_8	ESCC_55	NS	carcinoma	squamous_cell_carcinoma
+Sample_9	ESCC_BICR_040T	NS	carcinoma	squamous_cell_carcinoma
+Sample_10	ESCC_BICR_042T	NS	carcinoma	squamous_cell_carcinoma
+Sample_11	ESCC_BICR_045T	NS	carcinoma	squamous_cell_carcinoma
+Sample_12	ESO-0013	NS	carcinoma	adenocarcinoma
+Sample_13	ESO-717	NS	carcinoma	adenocarcinoma
+Sample_14				
+Sample_15	ESCC_109	NS	carcinoma	squamous_cell_carcinoma
+Sample_16	ESO-114	NS	carcinoma	adenocarcinoma
+Sample_17	ESO-0292	NS	carcinoma	adenocarcinoma
+Sample_18	ESO-859	NS	carcinoma	adenocarcinoma
+Sample_19	ESO-721	NS	carcinoma	adenocarcinoma
+Sample_20	ESCC_157	NS	carcinoma	squamous_cell_carcinoma
+Sample_21	ESO-081	NS	carcinoma	adenocarcinoma
+Sample_22	ESCC_BICR_070T	NS	carcinoma	squamous_cell_carcinoma
+Sample_23	ESO-105	NS	carcinoma	adenocarcinoma
+Sample_24	ESO-887	NS	carcinoma	adenocarcinoma
+Sample_25	ESCC_13	NS	carcinoma	squamous_cell_carcinoma
+Sample_26	KYSE-450	NS	carcinoma	squamous_cell_carcinoma
+Sample_27	KYSE-140	NS	carcinoma	squamous_cell_carcinoma
+Sample_28	SM-4B296	NS	carcinoma	adenocarcinoma

@@ -9,12 +9,20 @@
 </head>
 <body bgcolor=#FFDBC9>
 <h1>Predicted Signatures (M4, liver)</h1>
-<h2>Predicted Signatures</h2>
+<h2>Samples information</h2>
+<ul><li><a href=M4/liver/sample_info.txt target=_brank> Site subtype and Histology of samples</a></li>
+<li><a href=M4/liver/sample_mutation_dist.txt target=_brank> sample of mutation distribution</a></li>
+<ul><li>The first row shows the number of samples and the number             of mutational types, and the breakdown of each sample's mutation is             shown after the second row.</li></ul>
+</ul><h2>Predicted Signatures</h2>
 <p>9 signatures are extracted with mutation dictionary M4 in liver by Variational Bayes inference.</p>
 <figure>
 <a href=M4/liver/VLB.png data-lightbox="enlarged"><img src=M4/liver/VLB.png width=700></a>
 <figcaption>Transition of Variational Lower Bound by the number of signatures<figcaption>
 </figure>
+<h2>Activities of predicted signatures for each sample</h2>
+<a href=M4/liver/sig_composition.png data-lightbox="enlarged"><img src=M4/liver/sig_composition.png width=700></a>
+</figure>
+<p>Activities of predicted signatures<a href=M4/liver/sig_composition.txt target=_brank> (text format)</a></p>
 <h2>Description</h2>
 <p>These mutation signatures are Predicted Signatures experimentally.</p>
 <ul>
