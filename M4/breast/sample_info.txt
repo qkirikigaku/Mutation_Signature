@@ -1,37 +1,37 @@
-Sample ID	Sample name	Site subtype 1	Primary histology	Histology subtype 1
-Sample_1	PD4937a	NS	carcinoma	HER-positive_carcinoma
-Sample_2	PD4120a	NS	carcinoma	NS
-Sample_3	TCGA-D8-A1XQ-01	NS	carcinoma	NS
-Sample_4	TCGA-BH-A0HF-01	NS	carcinoma	NS
-Sample_5	TCGA-EW-A1J5-01	NS	carcinoma	NS
-Sample_6	TCGA-AO-A12E-01	NS	carcinoma	NS
-Sample_7	TCGA-AO-A03M-01	NS	carcinoma	NS
-Sample_8	TCGA-BH-A18P-01	NS	carcinoma	NS
-Sample_9	TCGA-A8-A0A6-01	NS	carcinoma	NS
-Sample_10	TCGA-D8-A27G-01	NS	carcinoma	NS
-Sample_11	TCGA-AR-A0TX-01	NS	carcinoma	NS
-Sample_12	TCGA-A8-A09Z-01	NS	carcinoma	NS
-Sample_13	TCGA-BH-A18G-01	NS	carcinoma	NS
-Sample_14	TCGA-D8-A1JA-01	NS	carcinoma	NS
-Sample_15	PD4109a	NS	carcinoma	ductal_carcinoma
-Sample_16	TCGA-EW-A1IZ-01	NS	carcinoma	NS
-Sample_17	TCGA-BH-A0B6-01	NS	carcinoma	NS
-Sample_18	TCGA-E2-A10C-01	NS	carcinoma	NS
-Sample_19	KPOPBR-03-T	NS	carcinoma	NS
-Sample_20	TCGA-AN-A046-01	NS	carcinoma	NS
-Sample_21	TCGA-A2-A0T5-01	NS	carcinoma	NS
-Sample_22	TCGA-GM-A2D9-01	NS	carcinoma	NS
-Sample_23	TCGA-AO-A128-01	NS	carcinoma	NS
-Sample_24				
-Sample_25	TCGA-C8-A1HM-01	NS	carcinoma	NS
-Sample_26	TCGA-AC-A5XS-01	NS	carcinoma	NS
-Sample_27	TCGA-D8-A1XK-01	NS	carcinoma	NS
-Sample_28	TCGA-AR-A2LE-01	NS	carcinoma	NS
-Sample_29	PD4844a	NS	carcinoma	ductal_carcinoma
-Sample_30	TCGA-BH-A0HA-01	NS	carcinoma	NS
-Sample_31	TCGA-C8-A26Y-01	NS	carcinoma	NS
-Sample_32	TCGA-BH-A2L8-01	NS	carcinoma	NS
-Sample_33	TCGA-D8-A1J8-01	NS	carcinoma	NS
-Sample_34	TCGA-AN-A0AK-01	NS	carcinoma	NS
-Sample_35	TCGA-AC-A23H-01	NS	carcinoma	NS
-Sample_36	TCGA-A8-A07R-01	NS	carcinoma	NS
+Sample ID	Sample name	Site subtype 1	Site subtype 2	Site subtype 3	Primary histology	Histology subtype 1	Histology subtype 2	Histology subtype 3
+Sample_1	PD4937a	NS	NS	NS	carcinoma	HER-positive_carcinoma	NS	NS
+Sample_2	PD4120a	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_3	TCGA-D8-A1XQ-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_4	TCGA-BH-A0HF-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_5	TCGA-EW-A1J5-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_6	TCGA-AO-A12E-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_7	TCGA-AO-A03M-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_8	TCGA-BH-A18P-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_9	TCGA-A8-A0A6-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_10	TCGA-D8-A27G-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_11	TCGA-AR-A0TX-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_12	TCGA-A8-A09Z-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_13	TCGA-BH-A18G-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_14	TCGA-D8-A1JA-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_15	PD4109a	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS
+Sample_16	TCGA-EW-A1IZ-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_17	TCGA-BH-A0B6-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_18	TCGA-E2-A10C-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_19	KPOPBR-03-T	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_20	TCGA-AN-A046-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_21	TCGA-A2-A0T5-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_22	TCGA-GM-A2D9-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_23	TCGA-AO-A128-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_24								
+Sample_25	TCGA-C8-A1HM-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_26	TCGA-AC-A5XS-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_27	TCGA-D8-A1XK-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_28	TCGA-AR-A2LE-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_29	PD4844a	NS	NS	NS	carcinoma	ductal_carcinoma	NS	NS
+Sample_30	TCGA-BH-A0HA-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_31	TCGA-C8-A26Y-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_32	TCGA-BH-A2L8-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_33	TCGA-D8-A1J8-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_34	TCGA-AN-A0AK-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_35	TCGA-AC-A23H-01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_36	TCGA-A8-A07R-01	NS	NS	NS	carcinoma	NS	NS	NS

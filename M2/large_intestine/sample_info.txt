@@ -1,237 +1,237 @@
-Sample ID	Sample name	Site subtype 1	Primary histology	Histology subtype 1
-Sample_1	TCGA-AA-3833-01	colon	carcinoma	adenocarcinoma
-Sample_2	587226	colon	carcinoma	adenocarcinoma
-Sample_3	TCGA-AA-3510-01	colon	carcinoma	adenocarcinoma
-Sample_4	T3080	colon	carcinoma	adenocarcinoma
-Sample_5	TCGA-G4-6309-01	colon	carcinoma	adenocarcinoma
-Sample_6	TCGA-CM-4743-01	colon	carcinoma	adenocarcinoma
-Sample_7	SNU-C4	NS	carcinoma	adenocarcinoma
-Sample_8	T3152	caecum	carcinoma	adenocarcinoma
-Sample_9	sysucc-311T	NS	carcinoma	adenocarcinoma
-Sample_10	CRC-06T	NS	carcinoma	adenocarcinoma
-Sample_11	sysucc-834T	NS	carcinoma	adenocarcinoma
-Sample_12	HCC2998	NS	carcinoma	adenocarcinoma
-Sample_13	C32	NS	carcinoma	adenocarcinoma
-Sample_14	I2L-P19Tb-Tumor-Biopsy	colon	carcinoma	adenocarcinoma
-Sample_15	I2L-P19Ta-Tumor-Organoid	colon	carcinoma	adenocarcinoma
-Sample_16	TCGA-A6-5665-01	colon	carcinoma	adenocarcinoma
-Sample_17	TCGA-AD-6889-01	colon	carcinoma	adenocarcinoma
-Sample_18	TCGA-F4-6703-01	colon	carcinoma	adenocarcinoma
-Sample_19	TCGA-AA-3966-01	colon	carcinoma	adenocarcinoma
-Sample_20	TCGA-D5-6928-01	colon	carcinoma	adenocarcinoma
-Sample_21	587338	colon	carcinoma	adenocarcinoma
-Sample_22	TCGA-G4-6588-01	caecum	carcinoma	adenocarcinoma
-Sample_23	CRC-19T	NS	carcinoma	adenocarcinoma
-Sample_24	T3021	colon	carcinoma	adenocarcinoma
-Sample_25	T3182	colon	carcinoma	adenocarcinoma
-Sample_26	TCGA-WS-AB45-01	colon	carcinoma	adenocarcinoma
-Sample_27	T3174	colon	carcinoma	adenocarcinoma
-Sample_28	T3301	caecum	carcinoma	adenocarcinoma
-Sample_29	T3049	colon	carcinoma	adenocarcinoma
-Sample_30	587332	colon	carcinoma	adenocarcinoma
-Sample_31	TCGA-CK-5916-01	caecum	carcinoma	adenocarcinoma
-Sample_32	T3091	colon	carcinoma	adenocarcinoma
-Sample_33	T84	NS	carcinoma	adenocarcinoma
-Sample_34	T3503	colon	carcinoma	adenocarcinoma
-Sample_35	TCGA-AD-6895-01	caecum	carcinoma	adenocarcinoma
-Sample_36	T3094	colon	carcinoma	adenocarcinoma
-Sample_37	TCGA-A6-6781-01	colon	carcinoma	adenocarcinoma
-Sample_38	T3225	colon	carcinoma	adenocarcinoma
-Sample_39	TCGA-CM-4746-01	colon	carcinoma	adenocarcinoma
-Sample_40	587228	colon	carcinoma	adenocarcinoma
-Sample_41	T3090	colon	carcinoma	adenocarcinoma
-Sample_42	LS174T	NS	carcinoma	adenocarcinoma
-Sample_43	T2944	colon	carcinoma	adenocarcinoma
-Sample_44	587222	colon	carcinoma	adenocarcinoma
-Sample_45	I2L-P24Ta-Tumor-Biopsy	colon	carcinoma	adenocarcinoma
-Sample_46	I2L-P19Tb-Tumor-Organoid	colon	carcinoma	adenocarcinoma
-Sample_47	sysucc-1838T	NS	carcinoma	adenocarcinoma
-Sample_48	T3118	rectum	carcinoma	adenocarcinoma
-Sample_49	T36	colon	carcinoma	adenocarcinoma
-Sample_50	TCGA-NH-A5IV-01	colon	carcinoma	adenocarcinoma
-Sample_51	T55	colon	carcinoma	adenocarcinoma
-Sample_52	T3498	colon	carcinoma	adenocarcinoma
-Sample_53	SW1116	NS	carcinoma	adenocarcinoma
-Sample_54	T3724	colon	carcinoma	adenocarcinoma
-Sample_55	LIM1899	NS	carcinoma	adenocarcinoma
-Sample_56	TCGA-G4-6304-01	colon	carcinoma	adenocarcinoma
-Sample_57	TCGA-AZ-6598-01	caecum	carcinoma	adenocarcinoma
-Sample_58	TCGA-AY-6196-01	colon	carcinoma	adenocarcinoma
-Sample_59	TCGA-A6-6140-01	colon	carcinoma	adenocarcinoma
-Sample_60	T3024	colon	carcinoma	adenocarcinoma
-Sample_61	T2197	colon	carcinoma	adenocarcinoma
-Sample_62	T2940	colon	carcinoma	adenocarcinoma
-Sample_63	CX-1	colon	carcinoma	adenocarcinoma
-Sample_64	LS411	colon	carcinoma	adenocarcinoma
-Sample_65	LS180	NS	carcinoma	adenocarcinoma
-Sample_66	T276	colon	carcinoma	adenocarcinoma
-Sample_67	T407	colon	carcinoma	adenocarcinoma
-Sample_68	COLO320-DM	colon	carcinoma	adenocarcinoma
-Sample_69	250LT	NS	carcinoma	adenocarcinoma
-Sample_70	1517_PT	colon	carcinoma	adenocarcinoma
-Sample_71	sysucc-882T	NS	carcinoma	adenocarcinoma
-Sample_72	TCGA-CM-6162-01	colon	carcinoma	adenocarcinoma
-Sample_73	T578	caecum	carcinoma	adenocarcinoma
-Sample_74	T368	colon	carcinoma	adenocarcinoma
-Sample_75	TCGA-AY-6386-01	caecum	carcinoma	adenocarcinoma
-Sample_76	TCGA-AA-3672-01	colon	carcinoma	adenocarcinoma
-Sample_77	HCT15	NS	carcinoma	adenocarcinoma
-Sample_78	HCT-15	colon	carcinoma	NS
-Sample_79	TCGA-G4-6628-01	caecum	carcinoma	adenocarcinoma
-Sample_80	TCGA-AA-3697-01	colon	carcinoma	adenocarcinoma
-Sample_81	CRC-03T	NS	carcinoma	adenocarcinoma
-Sample_82	sysucc-1370T	NS	carcinoma	adenocarcinoma
-Sample_83	587278	colon	carcinoma	adenocarcinoma
-Sample_84	LOVO	NS	carcinoma	adenocarcinoma
-Sample_85	587376	colon	carcinoma	adenocarcinoma
-Sample_86	TCGA-AA-3977-01	colon	carcinoma	adenocarcinoma
-Sample_87	T1743	colon	carcinoma	adenocarcinoma
-Sample_88	C84	colon	carcinoma	adenocarcinoma
-Sample_89	C658	NS	carcinoma	adenocarcinoma
-Sample_90	C547	NS	carcinoma	adenocarcinoma
-Sample_91	587350	colon	carcinoma	adenocarcinoma
-Sample_92	T2932	colon	carcinoma	adenocarcinoma
-Sample_93	C608	NS	carcinoma	adenocarcinoma
-Sample_94	T3610	caecum	carcinoma	adenocarcinoma
-Sample_95	TCGA-G4-6321-01	caecum	carcinoma	adenocarcinoma
-Sample_96	CACO2	NS	carcinoma	adenocarcinoma
-Sample_97	587342	colon	carcinoma	adenocarcinoma
-Sample_98	587284	colon	carcinoma	adenocarcinoma
-Sample_99	TCGA-CM-5861-01	caecum	carcinoma	adenocarcinoma
-Sample_100	TCGA-D5-6537-01	colon	carcinoma	adenocarcinoma
-Sample_101	TCGA-CA-6717-01	colon	carcinoma	adenocarcinoma
-Sample_102	T3262	caecum	carcinoma	adenocarcinoma
-Sample_103	sysucc-880T	NS	carcinoma	adenocarcinoma
-Sample_104	T2225	colon	carcinoma	adenocarcinoma
-Sample_105	TCGA-CM-6674-01	colon	carcinoma	adenocarcinoma
-Sample_106	TCGA-A6-6780-01	colon	carcinoma	adenocarcinoma
-Sample_107	TCGA-G4-6311-01	colon	carcinoma	adenocarcinoma
-Sample_108	587238	colon	carcinoma	adenocarcinoma
-Sample_109	T3535	colon	carcinoma	adenocarcinoma
-Sample_110	TCGA-AA-3492-01	colon	carcinoma	adenocarcinoma
-Sample_111	sysucc-1397T	NS	carcinoma	adenocarcinoma
-Sample_112	587234	colon	carcinoma	adenocarcinoma
-Sample_113	sysucc-1038T	NS	carcinoma	adenocarcinoma
-Sample_114	TCGA-CM-6171-01	colon	carcinoma	adenocarcinoma
-Sample_115	TCGA-EI-6917-01	rectum	carcinoma	adenocarcinoma
-Sample_116	T3202	caecum	carcinoma	adenocarcinoma
-Sample_117	T207	colon	carcinoma	adenocarcinoma
-Sample_118	T2269	colon	carcinoma	adenocarcinoma
-Sample_119	TCGA-A6-5661-01	colon	carcinoma	adenocarcinoma
-Sample_120	T1764	rectum	carcinoma	adenocarcinoma
-Sample_121	T3658	colon	carcinoma	adenocarcinoma
-Sample_122	T204	colon	carcinoma	adenocarcinoma
-Sample_123	TCGA-AG-3892-01	rectum	carcinoma	adenocarcinoma
-Sample_124	HRA19	rectum	carcinoma	adenocarcinoma
-Sample_125	sysucc-1317T	NS	carcinoma	adenocarcinoma
-Sample_126	587256	colon	carcinoma	adenocarcinoma
-Sample_127	TCGA-F5-6814-01	rectum	carcinoma	adenocarcinoma
-Sample_128	SNU-283	NS	carcinoma	adenocarcinoma
-Sample_129	TCGA-D5-6931-01	colon	carcinoma	adenocarcinoma
-Sample_130	TCGA-D5-6927-01	colon	carcinoma	adenocarcinoma
-Sample_131	TCGA-AZ-6601-01	colon	carcinoma	adenocarcinoma
-Sample_132	TCGA-EI-6882-01	rectum	carcinoma	adenocarcinoma
-Sample_133	TCGA-D5-6930-01	colon	carcinoma	adenocarcinoma
-Sample_134	LIM2405	colon	carcinoma	adenocarcinoma
-Sample_135	TCGA-AA-3715-01	colon	carcinoma	adenocarcinoma
-Sample_136	TCGA-F4-6856-01	caecum	carcinoma	adenocarcinoma
-Sample_137	T3064	colon	carcinoma	adenocarcinoma
-Sample_138	TCGA-AA-3821-01	colon	carcinoma	adenocarcinoma
-Sample_139	LIM2551	colon	carcinoma	adenocarcinoma
-Sample_140	587316	colon	carcinoma	adenocarcinoma
-Sample_141	SW480	NS	carcinoma	adenocarcinoma
-Sample_142	LS513	colon	carcinoma	adenocarcinoma
-Sample_143	LIM1215	colon	carcinoma	adenocarcinoma
-Sample_144	RW2982	colon	carcinoma	adenocarcinoma
-Sample_145	587336	colon	carcinoma	adenocarcinoma
-Sample_146	TCGA-AG-3592-01	rectum	carcinoma	adenocarcinoma
-Sample_147				
-Sample_148	KM12	NS	carcinoma	adenocarcinoma
-Sample_149	HCA46	colon	carcinoma	adenocarcinoma
-Sample_150	Gp5D	NS	carcinoma	adenocarcinoma
-Sample_151	HCT8	NS	carcinoma	adenocarcinoma
-Sample_152	Gp2D	NS	carcinoma	adenocarcinoma
-Sample_153	HDC101	colon	carcinoma	adenocarcinoma
-Sample_154	HCT116	NS	carcinoma	adenocarcinoma
-Sample_155	C709	NS	carcinoma	adenocarcinoma
-Sample_156	SW48	NS	carcinoma	adenocarcinoma
-Sample_157	HT55	rectum	carcinoma	adenocarcinoma
-Sample_158	CoCM-1	colon	carcinoma	adenocarcinoma
-Sample_159	T3306	rectum	carcinoma	adenocarcinoma
-Sample_160	SW948	NS	carcinoma	adenocarcinoma
-Sample_161	SW620	NS	carcinoma	adenocarcinoma
-Sample_162	T1154	colon	carcinoma	adenocarcinoma
-Sample_163	HDC90	NS	carcinoma	adenocarcinoma
-Sample_164	sysucc-1163T	NS	carcinoma	adenocarcinoma
-Sample_165	SW1222	NS	carcinoma	adenocarcinoma
-Sample_166	HT115	NS	carcinoma	adenocarcinoma
-Sample_167	T96	rectum	carcinoma	adenocarcinoma
-Sample_168	SW1463	rectum	carcinoma	adenocarcinoma
-Sample_169	I2L-P7-Tumor-Organoid	colon	carcinoma	adenocarcinoma
-Sample_170	C135	NS	carcinoma	adenocarcinoma
-Sample_171	526LT	NS	carcinoma	adenocarcinoma
-Sample_172	sysucc-1150T	NS	carcinoma	adenocarcinoma
-Sample_173	TCGA-AU-6004-01	caecum	carcinoma	adenocarcinoma
-Sample_174	TCGA-AM-5821-01	colon	carcinoma	adenocarcinoma
-Sample_175	587220	colon	carcinoma	adenocarcinoma
-Sample_176	262LT	NS	carcinoma	adenocarcinoma
-Sample_177	SNU-175	NS	carcinoma	adenocarcinoma
-Sample_178	CCK81	NS	carcinoma	adenocarcinoma
-Sample_179	SNU-C2B	colon	carcinoma	adenocarcinoma
-Sample_180	DLD1	NS	carcinoma	adenocarcinoma
-Sample_181	C467	NS	carcinoma	adenocarcinoma
-Sample_182	HCA7	colon	carcinoma	adenocarcinoma
-Sample_183	HDC87	rectum	carcinoma	adenocarcinoma
-Sample_184	COLO678	NS	carcinoma	adenocarcinoma
-Sample_185	P100	NS	carcinoma	adenocarcinoma
-Sample_186	NCI-H716	NS	carcinoma	adenocarcinoma
-Sample_187	CRC-02T	NS	carcinoma	adenocarcinoma
-Sample_188	sysucc-274T	NS	carcinoma	adenocarcinoma
-Sample_189	C91	NS	carcinoma	adenocarcinoma
-Sample_190	T3446	colon	carcinoma	adenocarcinoma
-Sample_191	SW403	NS	carcinoma	adenocarcinoma
-Sample_192	TCGA-A6-6141-01	caecum	carcinoma	adenocarcinoma
-Sample_193	SNU-C1	NS	carcinoma	adenocarcinoma
-Sample_194	I2L-P24Tb-Tumor-Biopsy	colon	carcinoma	adenocarcinoma
-Sample_195	I2L-P24Ta-Tumor-Organoid	colon	carcinoma	adenocarcinoma
-Sample_196	I2L-P24Tb-Tumor-Organoid	colon	carcinoma	adenocarcinoma
-Sample_197	I2L-P25-Tumor-Organoid	rectum	carcinoma	adenocarcinoma
-Sample_198	TCGA-CK-4952-01	colon	carcinoma	adenocarcinoma
-Sample_199	TCGA-AD-6964-01	caecum	carcinoma	adenocarcinoma
-Sample_200	TCGA-DM-A1DA-01	caecum	carcinoma	adenocarcinoma
-Sample_201	TCGA-AZ-4315-01	caecum	carcinoma	adenocarcinoma
-Sample_202	TCGA-AA-3712-01	colon	carcinoma	adenocarcinoma
-Sample_203	TCGA-G4-6586-01	colon	carcinoma	adenocarcinoma
-Sample_204	TCGA-AA-3663-01	caecum	carcinoma	adenocarcinoma
-Sample_205	TCGA-G4-6302-01	caecum	carcinoma	adenocarcinoma
-Sample_206	TCGA-AM-5820-01	colon	carcinoma	adenocarcinoma
-Sample_207	TCGA-AA-3713-01	colon	carcinoma	adenocarcinoma
-Sample_208	TCGA-G4-6320-01	colon	carcinoma	adenocarcinoma
-Sample_209	TCGA-D5-6540-01	caecum	carcinoma	adenocarcinoma
-Sample_210	TCGA-CK-4951-01	colon	carcinoma	adenocarcinoma
-Sample_211	TCGA-EI-6507-01	rectum	carcinoma	adenocarcinoma
-Sample_212	TCGA-CK-5913-01	caecum	carcinoma	adenocarcinoma
-Sample_213	TCGA-CK-4950-01	colon	carcinoma	adenocarcinoma
-Sample_214	TCGA-AY-6197-01	caecum	carcinoma	adenocarcinoma
-Sample_215	I2L-P10-Tumor-Organoid	colon	carcinoma	adenocarcinoma
-Sample_216	TCGA-AZ-4615-01	colon	carcinoma	adenocarcinoma
-Sample_217	TCGA-AA-A010-01	colon	carcinoma	adenocarcinoma
-Sample_218	T263	colon	carcinoma	adenocarcinoma
-Sample_219	HT29	colon	carcinoma	adenocarcinoma
-Sample_220	TCGA-F4-6570-01	colon	carcinoma	adenocarcinoma
-Sample_221	sysucc-783T	NS	carcinoma	adenocarcinoma
-Sample_222	TCGA-AD-5900-01	colon	carcinoma	adenocarcinoma
-Sample_223	TCGA-AA-A00N-01	caecum	carcinoma	adenocarcinoma
-Sample_224	TCGA-AA-3662-01	colon	carcinoma	adenocarcinoma
-Sample_225	TCGA-AH-6644-01	rectum	carcinoma	adenocarcinoma
-Sample_226	587224	colon	carcinoma	adenocarcinoma
-Sample_227	TCGA-A6-6653-01	colon	carcinoma	adenocarcinoma
-Sample_228	T613	caecum	carcinoma	adenocarcinoma
-Sample_229	RKO	NS	carcinoma	adenocarcinoma
-Sample_230	TCGA-CA-6718-01	colon	carcinoma	adenocarcinoma
-Sample_231	I2L-P19Ta-Tumor-Biopsy	colon	carcinoma	adenocarcinoma
-Sample_232	TCGA-G4-6298-01	caecum	carcinoma	adenocarcinoma
-Sample_233	TCGA-CI-6624-01	rectum	carcinoma	adenocarcinoma
-Sample_234	TCGA-AG-A002-01	rectum	carcinoma	adenocarcinoma
-Sample_235	HCT-116	colon	carcinoma	NS
-Sample_236	721LT	NS	carcinoma	adenocarcinoma
+Sample ID	Sample name	Site subtype 1	Site subtype 2	Site subtype 3	Primary histology	Histology subtype 1	Histology subtype 2	Histology subtype 3
+Sample_1	TCGA-AA-3833-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_2	587226	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_3	TCGA-AA-3510-01	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_4	T3080	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_5	TCGA-G4-6309-01	colon	sigmoid	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_6	TCGA-CM-4743-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_7	SNU-C4	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_8	T3152	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_9	sysucc-311T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_10	CRC-06T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_11	sysucc-834T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_12	HCC2998	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_13	C32	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_14	I2L-P19Tb-Tumor-Biopsy	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_15	I2L-P19Ta-Tumor-Organoid	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_16	TCGA-A6-5665-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_17	TCGA-AD-6889-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_18	TCGA-F4-6703-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_19	TCGA-AA-3966-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_20	TCGA-D5-6928-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_21	587338	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_22	TCGA-G4-6588-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_23	CRC-19T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_24	T3021	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_25	T3182	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_26	TCGA-WS-AB45-01	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_27	T3174	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_28	T3301	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_29	T3049	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_30	587332	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_31	TCGA-CK-5916-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_32	T3091	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_33	T84	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_34	T3503	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_35	TCGA-AD-6895-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_36	T3094	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_37	TCGA-A6-6781-01	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_38	T3225	colon	descending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_39	TCGA-CM-4746-01	colon	sigmoid	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_40	587228	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_41	T3090	colon	descending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_42	LS174T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_43	T2944	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_44	587222	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_45	I2L-P24Ta-Tumor-Biopsy	colon	sigmoid	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_46	I2L-P19Tb-Tumor-Organoid	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_47	sysucc-1838T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_48	T3118	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_49	T36	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_50	TCGA-NH-A5IV-01	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_51	T55	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_52	T3498	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_53	SW1116	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_54	T3724	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_55	LIM1899	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_56	TCGA-G4-6304-01	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_57	TCGA-AZ-6598-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_58	TCGA-AY-6196-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_59	TCGA-A6-6140-01	colon	descending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_60	T3024	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_61	T2197	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_62	T2940	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_63	CX-1	colon	left	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_64	LS411	colon	right	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_65	LS180	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_66	T276	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_67	T407	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_68	COLO320-DM	colon	left	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_69	250LT	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_70	1517_PT	colon	right	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_71	sysucc-882T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_72	TCGA-CM-6162-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_73	T578	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_74	T368	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_75	TCGA-AY-6386-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_76	TCGA-AA-3672-01	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_77	HCT15	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_78	HCT-15	colon	NS	NS	carcinoma	NS	NS	NS
+Sample_79	TCGA-G4-6628-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_80	TCGA-AA-3697-01	colon	sigmoid	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_81	CRC-03T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_82	sysucc-1370T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_83	587278	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_84	LOVO	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_85	587376	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_86	TCGA-AA-3977-01	colon	sigmoid	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_87	T1743	colon	descending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_88	C84	colon	right	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_89	C658	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_90	C547	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_91	587350	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_92	T2932	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_93	C608	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_94	T3610	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_95	TCGA-G4-6321-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_96	CACO2	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_97	587342	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_98	587284	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_99	TCGA-CM-5861-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_100	TCGA-D5-6537-01	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_101	TCGA-CA-6717-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_102	T3262	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_103	sysucc-880T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_104	T2225	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_105	TCGA-CM-6674-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_106	TCGA-A6-6780-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_107	TCGA-G4-6311-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_108	587238	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_109	T3535	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_110	TCGA-AA-3492-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_111	sysucc-1397T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_112	587234	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_113	sysucc-1038T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_114	TCGA-CM-6171-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_115	TCGA-EI-6917-01	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_116	T3202	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_117	T207	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_118	T2269	colon	descending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_119	TCGA-A6-5661-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_120	T1764	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_121	T3658	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_122	T204	colon	descending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_123	TCGA-AG-3892-01	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_124	HRA19	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_125	sysucc-1317T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_126	587256	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_127	TCGA-F5-6814-01	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_128	SNU-283	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_129	TCGA-D5-6931-01	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_130	TCGA-D5-6927-01	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_131	TCGA-AZ-6601-01	colon	sigmoid	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_132	TCGA-EI-6882-01	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_133	TCGA-D5-6930-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_134	LIM2405	colon	right	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_135	TCGA-AA-3715-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_136	TCGA-F4-6856-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_137	T3064	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_138	TCGA-AA-3821-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_139	LIM2551	colon	right	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_140	587316	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_141	SW480	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_142	LS513	colon	right	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_143	LIM1215	colon	right	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_144	RW2982	colon	left	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_145	587336	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_146	TCGA-AG-3592-01	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_147								
+Sample_148	KM12	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_149	HCA46	colon	left	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_150	Gp5D	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_151	HCT8	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_152	Gp2D	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_153	HDC101	colon	left	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_154	HCT116	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_155	C709	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_156	SW48	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_157	HT55	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_158	CoCM-1	colon	left	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_159	T3306	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_160	SW948	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_161	SW620	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_162	T1154	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_163	HDC90	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_164	sysucc-1163T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_165	SW1222	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_166	HT115	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_167	T96	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_168	SW1463	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_169	I2L-P7-Tumor-Organoid	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_170	C135	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_171	526LT	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_172	sysucc-1150T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_173	TCGA-AU-6004-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_174	TCGA-AM-5821-01	colon	sigmoid	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_175	587220	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_176	262LT	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_177	SNU-175	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_178	CCK81	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_179	SNU-C2B	colon	right	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_180	DLD1	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_181	C467	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_182	HCA7	colon	right	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_183	HDC87	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_184	COLO678	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_185	P100	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_186	NCI-H716	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_187	CRC-02T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_188	sysucc-274T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_189	C91	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_190	T3446	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_191	SW403	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_192	TCGA-A6-6141-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_193	SNU-C1	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_194	I2L-P24Tb-Tumor-Biopsy	colon	sigmoid	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_195	I2L-P24Ta-Tumor-Organoid	colon	sigmoid	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_196	I2L-P24Tb-Tumor-Organoid	colon	sigmoid	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_197	I2L-P25-Tumor-Organoid	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_198	TCGA-CK-4952-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_199	TCGA-AD-6964-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_200	TCGA-DM-A1DA-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_201	TCGA-AZ-4315-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_202	TCGA-AA-3712-01	colon	descending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_203	TCGA-G4-6586-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_204	TCGA-AA-3663-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_205	TCGA-G4-6302-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_206	TCGA-AM-5820-01	colon	sigmoid	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_207	TCGA-AA-3713-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_208	TCGA-G4-6320-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_209	TCGA-D5-6540-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_210	TCGA-CK-4951-01	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_211	TCGA-EI-6507-01	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_212	TCGA-CK-5913-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_213	TCGA-CK-4950-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_214	TCGA-AY-6197-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_215	I2L-P10-Tumor-Organoid	colon	sigmoid	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_216	TCGA-AZ-4615-01	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_217	TCGA-AA-A010-01	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_218	T263	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_219	HT29	colon	left	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_220	TCGA-F4-6570-01	colon	transverse	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_221	sysucc-783T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_222	TCGA-AD-5900-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_223	TCGA-AA-A00N-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_224	TCGA-AA-3662-01	colon	sigmoid	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_225	TCGA-AH-6644-01	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_226	587224	colon	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_227	TCGA-A6-6653-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_228	T613	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_229	RKO	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_230	TCGA-CA-6718-01	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_231	I2L-P19Ta-Tumor-Biopsy	colon	ascending	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_232	TCGA-G4-6298-01	caecum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_233	TCGA-CI-6624-01	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_234	TCGA-AG-A002-01	rectum	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_235	HCT-116	colon	NS	NS	carcinoma	NS	NS	NS
+Sample_236	721LT	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS

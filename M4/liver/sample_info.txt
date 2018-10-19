@@ -1,69 +1,69 @@
-Sample ID	Sample name	Site subtype 1	Primary histology	Histology subtype 1
-Sample_1	TCGA-EP-A2KA-01	NS	carcinoma	hepatocellular_carcinoma
-Sample_2	CHC432T	NS	carcinoma	hepatocellular_carcinoma
-Sample_3	CHC451T	NS	carcinoma	hepatocellular_carcinoma
-Sample_4	CHC322T	NS	carcinoma	hepatocellular_carcinoma
-Sample_5	CHC429T	NS	carcinoma	hepatocellular_carcinoma
-Sample_6	CHC2103T	NS	carcinoma	hepatocellular_carcinoma
-Sample_7	CHC2052T	NS	carcinoma	hepatocellular_carcinoma
-Sample_8	HCC118T	NS	other	neoplasm
-Sample_9	HCC107T	NS	other	neoplasm
-Sample_10	TCGA-CC-A7IH-01	NS	carcinoma	hepatocellular_carcinoma
-Sample_11	RK308_C01	NS	carcinoma	NS
-Sample_12	BN24	NS	carcinoma	NS
-Sample_13	HX13T	NS	carcinoma	NS
-Sample_14	HCC4T	NS	carcinoma	NS
-Sample_15	CHC1035T	NS	carcinoma	hepatocellular_carcinoma
-Sample_16	BN24T	NS	carcinoma	NS
-Sample_17	RK119_C01	NS	carcinoma	NS
-Sample_18	CHC320T	NS	carcinoma	hepatocellular_carcinoma
-Sample_19	CHC1209T	NS	carcinoma	hepatocellular_carcinoma
-Sample_20	TCGA-ES-A2HT-01	NS	carcinoma	hepatocellular_carcinoma
-Sample_21	TCGA-EP-A2KB-01	NS	carcinoma	hepatocellular_carcinoma
-Sample_22	TCGA-UB-A7MB-01	NS	carcinoma	hepatocellular_carcinoma
-Sample_23	TCGA-G3-A25S-01	NS	carcinoma	hepatocellular_carcinoma
-Sample_24	TCGA-ES-A2HS-01	NS	carcinoma	hepatocellular_carcinoma
-Sample_25	CHC892T	NS	carcinoma	hepatocellular_carcinoma
-Sample_26	CHC303T	NS	carcinoma	hepatocellular_carcinoma
-Sample_27	CHC1154T	NS	carcinoma	hepatocellular_carcinoma
-Sample_28	CHC1148T	NS	carcinoma	hepatocellular_carcinoma
-Sample_29	CHC205T	NS	carcinoma	hepatocellular_carcinoma
-Sample_30	CHC1545T	NS	carcinoma	hepatocellular_carcinoma
-Sample_31	CHC1629T	NS	carcinoma	hepatocellular_carcinoma
-Sample_32	CHC1211T	NS	carcinoma	hepatocellular_carcinoma
-Sample_33	CHC155T	NS	carcinoma	hepatocellular_carcinoma
-Sample_34	CHC1207T	NS	carcinoma	hepatocellular_carcinoma
-Sample_35	CHC197T	NS	carcinoma	hepatocellular_carcinoma
-Sample_36	CHC1715T	NS	carcinoma	hepatocellular_carcinoma
-Sample_37	CHC1205T	NS	carcinoma	hepatocellular_carcinoma
-Sample_38	CHC121T	NS	carcinoma	hepatocellular_carcinoma
-Sample_39	HCC107	NS	carcinoma	NS
-Sample_40	9227_T	NS	carcinoma	hepatocellular_carcinoma
-Sample_41	CHC1725T	NS	carcinoma	hepatocellular_carcinoma
-Sample_42	HCC174	NS	carcinoma	NS
-Sample_43				
-Sample_44	HCC159T	NS	carcinoma	NS
-Sample_45	HCC127T	NS	other	neoplasm
-Sample_46	TCGA-DD-A3A9-01	NS	carcinoma	hepatocellular_carcinoma
-Sample_47	TCGA-CC-A7IK-01	NS	carcinoma	hepatocellular_carcinoma
-Sample_48	HCC078T	NS	other	neoplasm
-Sample_49	HCC063T	NS	other	neoplasm
-Sample_50	3206A7_009_T	NS	carcinoma	hepatocellular_carcinoma
-Sample_51	HCC058T	NS	other	neoplasm
-Sample_52	HCC021T	NS	other	neoplasm
-Sample_53	HCC066T	NS	other	neoplasm
-Sample_54	CHC433T	NS	carcinoma	hepatocellular_carcinoma
-Sample_55	CHC1743T	NS	carcinoma	hepatocellular_carcinoma
-Sample_56	CHC805T	NS	carcinoma	hepatocellular_carcinoma
-Sample_57	BCM723T	NS	carcinoma	hepatocellular_carcinoma
-Sample_58	HCC017T	NS	other	neoplasm
-Sample_59	CHC798T	NS	carcinoma	hepatocellular_carcinoma
-Sample_60	CHC1052T	NS	carcinoma	hepatocellular_carcinoma
-Sample_61	CHC1717T	NS	carcinoma	hepatocellular_carcinoma
-Sample_62	CHC1754T	NS	carcinoma	hepatocellular_carcinoma
-Sample_63	CHC1744T	NS	carcinoma	hepatocellular_carcinoma
-Sample_64	CHC1704T	NS	carcinoma	hepatocellular_carcinoma
-Sample_65	HCC4	NS	carcinoma	NS
-Sample_66	HCC174T	NS	carcinoma	NS
-Sample_67	CHC912T	NS	carcinoma	hepatocellular_carcinoma
-Sample_68	BCM337T	NS	carcinoma	hepatocellular_carcinoma
+Sample ID	Sample name	Site subtype 1	Site subtype 2	Site subtype 3	Primary histology	Histology subtype 1	Histology subtype 2	Histology subtype 3
+Sample_1	TCGA-EP-A2KA-01	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_2	CHC432T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_3	CHC451T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_4	CHC322T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_5	CHC429T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_6	CHC2103T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_7	CHC2052T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_8	HCC118T	NS	NS	NS	other	neoplasm	NS	NS
+Sample_9	HCC107T	NS	NS	NS	other	neoplasm	NS	NS
+Sample_10	TCGA-CC-A7IH-01	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_11	RK308_C01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_12	BN24	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_13	HX13T	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_14	HCC4T	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_15	CHC1035T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_16	BN24T	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_17	RK119_C01	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_18	CHC320T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_19	CHC1209T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_20	TCGA-ES-A2HT-01	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_21	TCGA-EP-A2KB-01	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_22	TCGA-UB-A7MB-01	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_23	TCGA-G3-A25S-01	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_24	TCGA-ES-A2HS-01	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_25	CHC892T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_26	CHC303T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_27	CHC1154T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_28	CHC1148T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_29	CHC205T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_30	CHC1545T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_31	CHC1629T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_32	CHC1211T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_33	CHC155T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_34	CHC1207T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_35	CHC197T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_36	CHC1715T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_37	CHC1205T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_38	CHC121T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_39	HCC107	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_40	9227_T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_41	CHC1725T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_42	HCC174	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_43								
+Sample_44	HCC159T	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_45	HCC127T	NS	NS	NS	other	neoplasm	NS	NS
+Sample_46	TCGA-DD-A3A9-01	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_47	TCGA-CC-A7IK-01	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_48	HCC078T	NS	NS	NS	other	neoplasm	NS	NS
+Sample_49	HCC063T	NS	NS	NS	other	neoplasm	NS	NS
+Sample_50	3206A7_009_T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_51	HCC058T	NS	NS	NS	other	neoplasm	NS	NS
+Sample_52	HCC021T	NS	NS	NS	other	neoplasm	NS	NS
+Sample_53	HCC066T	NS	NS	NS	other	neoplasm	NS	NS
+Sample_54	CHC433T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_55	CHC1743T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_56	CHC805T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_57	BCM723T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_58	HCC017T	NS	NS	NS	other	neoplasm	NS	NS
+Sample_59	CHC798T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_60	CHC1052T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_61	CHC1717T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_62	CHC1754T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_63	CHC1744T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_64	CHC1704T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_65	HCC4	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_66	HCC174T	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_67	CHC912T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS
+Sample_68	BCM337T	NS	NS	NS	carcinoma	hepatocellular_carcinoma	NS	NS

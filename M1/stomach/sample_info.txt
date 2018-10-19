@@ -1,15 +1,15 @@
 Sample ID	Sample name	Site subtype 1	Site subtype 2	Site subtype 3	Primary histology	Histology subtype 1	Histology subtype 2	Histology subtype 3
-Sample_1	pfg127T	NS	NS	NS	carcinoma	intestinal_adenocarcinoma	NS	NS
+Sample_1	pfg143T	NS	NS	NS	carcinoma	intestinal_adenocarcinoma	NS	NS
 Sample_2	TCGA-F1-A448-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_3	TCGA-HU-A4H4-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_4	pfg019T	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_5	TCGA-BR-8059-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
-Sample_6	pfg143T	NS	NS	NS	carcinoma	intestinal_adenocarcinoma	NS	NS
+Sample_6	pfg212T	NS	NS	NS	carcinoma	intestinal_adenocarcinoma	NS	NS
 Sample_7	2497767	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_8	TCGA-BR-7703-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_9	TCGA-BR-8485-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_10	TCGA-BR-6852-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
-Sample_11	pfg129T	NS	NS	NS	carcinoma	intestinal_adenocarcinoma	NS	NS
+Sample_11	pfg181T	NS	NS	NS	carcinoma	intestinal_adenocarcinoma	NS	NS
 Sample_12	TCGA-CG-5733-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_13	TCGA-HU-A4GH-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_14	TCGA-BR-8363-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
@@ -41,11 +41,11 @@ Sample_39	TCGA-BR-4357-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_40	TCGA-D7-A4YY-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_41	TCGA-BR-8361-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_42	TCGA-BR-8284-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
-Sample_43	pfg122T	NS	NS	NS	carcinoma	intestinal_adenocarcinoma	NS	NS
+Sample_43	pfg127T	NS	NS	NS	carcinoma	intestinal_adenocarcinoma	NS	NS
 Sample_44	234	gastroesophageal_junction	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_45	TCGA-HU-A4GX-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_46	TCGA-D7-A4Z0-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
-Sample_47	pfg068T	NS	NS	NS	carcinoma	intestinal_adenocarcinoma	NS	NS
+Sample_47	pfg122T	NS	NS	NS	carcinoma	intestinal_adenocarcinoma	NS	NS
 Sample_48	TCGA-CG-5728-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_49	TCGA-HU-A4GU-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_50	TCGA-B7-5818-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
@@ -91,7 +91,7 @@ Sample_89	TCGA-HU-A4H8-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_90	TCGA-CG-4442-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_91	TCGA-CD-8535-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_92	TCGA-D7-A4YV-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
-Sample_93	pfg057T	NS	NS	NS	carcinoma	intestinal_adenocarcinoma	NS	NS
+Sample_93	pfg068T	NS	NS	NS	carcinoma	intestinal_adenocarcinoma	NS	NS
 Sample_94	TCGA-CG-5721-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_95	TCGA-BR-6566-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
 Sample_96	TCGA-D7-A4YT-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS

@@ -1,31 +1,31 @@
-Sample ID	Sample name	Site subtype 1	Primary histology	Histology subtype 1
-Sample_1	DU-145	NS	carcinoma	adenocarcinoma
-Sample_2	03-130M4	NS	carcinoma	adenocarcinoma
-Sample_3	05-123D1	NS	carcinoma	adenocarcinoma
-Sample_4	MO_1013	NS	carcinoma	NS
-Sample_5	TCGA-CH-5739-01	NS	carcinoma	adenocarcinoma
-Sample_6	05-165K5	NS	carcinoma	adenocarcinoma
-Sample_7	TCGA-G9-6342-01	NS	carcinoma	adenocarcinoma
-Sample_8	SC_9083	NS	carcinoma	NS
-Sample_9	WA16	NS	carcinoma	adenocarcinoma
-Sample_10	05-123E2	NS	carcinoma	adenocarcinoma
-Sample_11	Q	NS	carcinoma	NS
-Sample_12	TCGA-KK-A59V-01	NS	carcinoma	adenocarcinoma
-Sample_13	06-134H1	NS	carcinoma	adenocarcinoma
-Sample_14				
-Sample_15	05-165O	NS	carcinoma	adenocarcinoma
-Sample_16	05-165M1	NS	carcinoma	adenocarcinoma
-Sample_17	SC_9047	NS	carcinoma	NS
-Sample_18	03-130L	NS	carcinoma	adenocarcinoma
-Sample_19	00-010M	NS	carcinoma	adenocarcinoma
-Sample_20	SC_9081	NS	carcinoma	NS
-Sample_21	00-010N	NS	carcinoma	adenocarcinoma
-Sample_22	00-010L	NS	carcinoma	adenocarcinoma
-Sample_23	SC_9008	NS	carcinoma	NS
-Sample_24	S	NS	carcinoma	NS
-Sample_25	SC_9100	NS	carcinoma	NS
-Sample_26	MO_1012	NS	carcinoma	NS
-Sample_27	PR-00-1165	NS	carcinoma	NS
-Sample_28	TCGA-J9-A52C-01	NS	carcinoma	adenocarcinoma
-Sample_29	TCGA-EJ-7782-01	NS	carcinoma	adenocarcinoma
-Sample_30	TCGA-EJ-7125-01	NS	carcinoma	adenocarcinoma
+Sample ID	Sample name	Site subtype 1	Site subtype 2	Site subtype 3	Primary histology	Histology subtype 1	Histology subtype 2	Histology subtype 3
+Sample_1	DU-145	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_2	03-130M4	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_3	05-123D1	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_4	MO_1013	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_5	TCGA-CH-5739-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_6	05-165K5	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_7	TCGA-G9-6342-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_8	SC_9083	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_9	WA16	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_10	05-123E2	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_11	Q	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_12	TCGA-KK-A59V-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_13	06-134H1	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_14								
+Sample_15	05-165O	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_16	05-165M1	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_17	SC_9047	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_18	03-130L	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_19	00-010M	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_20	SC_9081	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_21	00-010N	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_22	00-010L	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_23	SC_9008	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_24	S	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_25	SC_9100	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_26	MO_1012	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_27	PR-00-1165	NS	NS	NS	carcinoma	NS	NS	NS
+Sample_28	TCGA-J9-A52C-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_29	TCGA-EJ-7782-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS
+Sample_30	TCGA-EJ-7125-01	NS	NS	NS	carcinoma	adenocarcinoma	NS	NS

@@ -1,426 +1,426 @@
-Sample ID	Sample name	Site subtype 1	Primary histology	Histology subtype 1
-Sample_1	TCGA-EE-A2MR-06	NS	malignant_melanoma	NS
-Sample_2	TCGA-D3-A3C7-06	NS	malignant_melanoma	NS
-Sample_3	71M	upper_leg	malignant_melanoma	desmoplastic
-Sample_4	TCGA-ER-A2NH-06	NS	malignant_melanoma	NS
-Sample_5	TCGA-EB-A5SE-01	NS	malignant_melanoma	NS
-Sample_6	PT19_2	NS	carcinoma	basal_cell_carcinoma
-Sample_7	PT13	NS	carcinoma	basal_cell_carcinoma
-Sample_8	PT09_2	leg	carcinoma	basal_cell_carcinoma
-Sample_9	TCGA-FW-A3TU-06	NS	malignant_melanoma	NS
-Sample_10	TCGA-EE-A2GB-06	NS	malignant_melanoma	NS
-Sample_11	TCGA-EE-A2MS-06	NS	malignant_melanoma	NS
-Sample_12	CSCC-29-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_13	Au1	back	malignant_melanoma	desmoplastic
-Sample_14	11M	shoulder	malignant_melanoma	desmoplastic
-Sample_15	TCGA-GF-A3OT-06	NS	malignant_melanoma	NS
-Sample_16	TCGA-D9-A1JW-06	NS	malignant_melanoma	NS
-Sample_17	TCGA-EE-A2ML-06	NS	malignant_melanoma	NS
-Sample_18	S03-45671-TP	NS	carcinoma	squamous_cell_carcinoma
-Sample_19	PT15_1	NS	carcinoma	basal_cell_carcinoma
-Sample_20	PT33	NS	carcinoma	basal_cell_carcinoma
-Sample_21	2521259	face	carcinoma	basal_cell_carcinoma
-Sample_22	YUZINO	mucosal	malignant_melanoma	NS
-Sample_23	TCGA-EE-A3JD-06	NS	malignant_melanoma	NS
-Sample_24	CSCC-40-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_25	TCGA-EE-A3J8-06	NS	malignant_melanoma	NS
-Sample_26	CSCC-38-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_27	cSCCP8	ear	carcinoma	squamous_cell_carcinoma
-Sample_28	PT44	NS	carcinoma	basal_cell_carcinoma
-Sample_29	35M	trunk	malignant_melanoma	desmoplastic
-Sample_30	CSCC-19-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_31	CSCC-16-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_32	CSCC-31-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_33	CSCC-5-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_34	CSCC-15-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_35	CSCC-62-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_36	CSCC-49-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_37	CSCC-7-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_38	CSCC-4-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_39	CSCC-37-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_40	CSCC-35-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_41	CSCC-32-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_42	CSCC-30-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_43	PT36	NS	carcinoma	basal_cell_carcinoma
-Sample_44	CSCC-57-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_45	CSCC-11-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_46	DM2	face	malignant_melanoma	desmoplastic
-Sample_47	CSCC-60-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_48	TCGA-FS-A1ZP-06	NS	malignant_melanoma	NS
-Sample_49	Au8	ankle	malignant_melanoma	desmoplastic
-Sample_50	2492703	NS	malignant_melanoma	NS
-Sample_51	2492701	NS	malignant_melanoma	NS
-Sample_52	2492708	lower_leg	malignant_melanoma	NS
-Sample_53	2492702	NS	malignant_melanoma	NS
-Sample_54	Au3	chest	malignant_melanoma	desmoplastic
-Sample_55	CSCC-56-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_56	CSCC-2-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_57	CSCC-46-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_58	TCGA-D3-A51R-06	NS	malignant_melanoma	NS
-Sample_59	CSCC-54-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_60	PT46	NS	carcinoma	basal_cell_carcinoma
-Sample_61	53M	upper_arm	malignant_melanoma	desmoplastic
-Sample_62	40M	forearm	malignant_melanoma	desmoplastic
-Sample_63	CSCC-6-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_64	CSCC-18-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_65	2492700	face	malignant_melanoma	NS
-Sample_66	TCGA-EB-A3XD-01	NS	malignant_melanoma	NS
-Sample_67	TCGA-BF-A1PV-01	NS	malignant_melanoma	NS
-Sample_68	TCGA-GN-A26C-01	NS	malignant_melanoma	NS
-Sample_69	YUROG	NS	malignant_melanoma	NS
-Sample_70	cSCCP5	face	carcinoma	squamous_cell_carcinoma
-Sample_71	CSCC-44-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_72	cSCCP7	face	carcinoma	squamous_cell_carcinoma
-Sample_73	2521252	face	carcinoma	basal_cell_carcinoma
-Sample_74	TCGA-EE-A2MM-06	NS	malignant_melanoma	NS
-Sample_75	TCGA-EE-A2A6-06	NS	malignant_melanoma	NS
-Sample_76	TCGA-FR-A3R1-01	NS	malignant_melanoma	NS
-Sample_77	YULONE	NS	malignant_melanoma	NS
-Sample_78	YUDIVI	NS	malignant_melanoma	NS
-Sample_79	TCGA-EE-A29Q-06	NS	malignant_melanoma	NS
-Sample_80	TCGA-ER-A199-06	NS	malignant_melanoma	NS
-Sample_81	LAU108	arm	malignant_melanoma	NS
-Sample_82	TCGA-FS-A1Z0-06	NS	malignant_melanoma	NS
-Sample_83	TCGA-EB-A551-01	NS	malignant_melanoma	NS
-Sample_84	TCGA-D9-A148-06	NS	malignant_melanoma	NS
-Sample_85	TCGA-DA-A3F8-06	NS	malignant_melanoma	NS
-Sample_86	TCGA-FR-A3YN-06	NS	malignant_melanoma	NS
-Sample_87	YURISA	NS	malignant_melanoma	NS
-Sample_88	YUDUTY	NS	malignant_melanoma	NS
-Sample_89	YUWIA	NS	malignant_melanoma	NS
-Sample_90	YUFIT	NS	malignant_melanoma	NS
-Sample_91	TCGA-EE-A2MI-06	NS	malignant_melanoma	NS
-Sample_92	TCGA-FS-A1ZZ-06	NS	malignant_melanoma	NS
-Sample_93	TCGA-EE-A3AB-06	NS	malignant_melanoma	NS
-Sample_94	TCGA-D3-A2J8-06	NS	malignant_melanoma	NS
-Sample_95	TCGA-D3-A1QB-06	NS	malignant_melanoma	NS
-Sample_96	TCGA-EE-A20H-06	NS	malignant_melanoma	NS
-Sample_97	TCGA-ER-A19D-06	NS	malignant_melanoma	NS
-Sample_98	TCGA-GN-A268-06	NS	malignant_melanoma	NS
-Sample_99	TCGA-FW-A3TV-06	NS	malignant_melanoma	NS
-Sample_100	TCGA-EE-A2GO-06	NS	malignant_melanoma	NS
-Sample_101	TCGA-EE-A2GI-06	NS	malignant_melanoma	NS
-Sample_102	YUMUL	NS	malignant_melanoma	NS
-Sample_103	TCGA-D3-A3ML-06	NS	malignant_melanoma	NS
-Sample_104	TCGA-FS-A1ZC-06	NS	malignant_melanoma	NS
-Sample_105	37M	scalp	malignant_melanoma	desmoplastic
-Sample_106	TCGA-DA-A1I5-06	NS	malignant_melanoma	NS
-Sample_107	TCGA-DA-A1HY-06	NS	malignant_melanoma	NS
-Sample_108	YULOCUS	NS	malignant_melanoma	NS
-Sample_109	YULAPE	NS	malignant_melanoma	NS
-Sample_110	TCGA-EE-A3AA-06	NS	malignant_melanoma	NS
-Sample_111	TCGA-RP-A695-06	NS	malignant_melanoma	NS
-Sample_112	TCGA-EE-A3JA-06	NS	malignant_melanoma	NS
-Sample_113	TCGA-D3-A3MV-06	NS	malignant_melanoma	NS
-Sample_114	TCGA-EE-A2GH-06	NS	malignant_melanoma	NS
-Sample_115	MZ7-mel	NS	malignant_melanoma	NS
-Sample_116	TCGA-GN-A269-01	NS	malignant_melanoma	NS
-Sample_117	TCGA-EE-A29H-06	NS	malignant_melanoma	NS
-Sample_118	TCGA-EE-A29C-06	NS	malignant_melanoma	NS
-Sample_119	TCGA-EB-A41A-01	NS	malignant_melanoma	NS
-Sample_120	TCGA-FW-A3R5-06	NS	malignant_melanoma	NS
-Sample_121	TCGA-EE-A2GD-06	NS	malignant_melanoma	NS
-Sample_122	TCGA-EE-A29S-06	NS	malignant_melanoma	NS
-Sample_123	TCGA-EE-A2GN-06	NS	malignant_melanoma	NS
-Sample_124	YUHAMA	NS	malignant_melanoma	NS
-Sample_125	TCGA-EE-A3J4-06	NS	malignant_melanoma	NS
-Sample_126	TCGA-FS-A4FD-06	NS	malignant_melanoma	NS
-Sample_127	TCGA-D3-A2JH-06	NS	malignant_melanoma	NS
-Sample_128	YUGOE	NS	malignant_melanoma	NS
-Sample_129	TCGA-EE-A3AH-06	NS	malignant_melanoma	NS
-Sample_130	TCGA-GN-A26A-06	NS	malignant_melanoma	NS
-Sample_131	TCGA-ER-A19P-06	NS	malignant_melanoma	NS
-Sample_132	TCGA-ER-A195-06	NS	malignant_melanoma	NS
-Sample_133	TCGA-EE-A2GJ-06	NS	malignant_melanoma	NS
-Sample_134	TCGA-D3-A1Q4-06	NS	malignant_melanoma	NS
-Sample_135	2492724	forearm	malignant_melanoma	NS
-Sample_136	2492722	NS	malignant_melanoma	NS
-Sample_137	2492723	NS	malignant_melanoma	NS
-Sample_138	2492721	NS	malignant_melanoma	NS
-Sample_139	TCGA-EE-A182-06	NS	malignant_melanoma	NS
-Sample_140	TCGA-EE-A3AD-06	NS	malignant_melanoma	NS
-Sample_141	TCGA-D3-A5GN-06	NS	malignant_melanoma	NS
-Sample_142	12M	face	malignant_melanoma	desmoplastic
-Sample_143	TCGA-ER-A19G-06	NS	malignant_melanoma	NS
-Sample_144	TCGA-D3-A3MU-06	NS	malignant_melanoma	NS
-Sample_145	TCGA-EE-A2MF-06	NS	malignant_melanoma	NS
-Sample_146	TCGA-EE-A183-06	NS	malignant_melanoma	NS
-Sample_147	TCGA-D3-A3MR-06	NS	malignant_melanoma	NS
-Sample_148	TCGA-FS-A1ZA-06	NS	malignant_melanoma	NS
-Sample_149	TCGA-EE-A3JI-06	NS	malignant_melanoma	NS
-Sample_150	TCGA-ER-A194-01	NS	malignant_melanoma	NS
-Sample_151	ME002T	extremity	malignant_melanoma	NS
-Sample_152	TCGA-FS-A1ZK-06	NS	malignant_melanoma	NS
-Sample_153	TCGA-EE-A2GL-06	NS	malignant_melanoma	NS
-Sample_154	2492720	ear	malignant_melanoma	NS
-Sample_155	2492714	NS	malignant_melanoma	NS
-Sample_156	2492712	NS	malignant_melanoma	NS
-Sample_157	2492713	NS	malignant_melanoma	NS
-Sample_158	Au9	lip	malignant_melanoma	desmoplastic
-Sample_159	TCGA-ER-A3PL-06	NS	malignant_melanoma	NS
-Sample_160	TCGA-EE-A181-06	NS	malignant_melanoma	NS
-Sample_161	TCGA-GN-A265-06	NS	malignant_melanoma	NS
-Sample_162	cSCCP1	scalp	carcinoma	squamous_cell_carcinoma
-Sample_163	TCGA-EE-A2MU-06	NS	malignant_melanoma	NS
-Sample_164	TCGA-EE-A2GC-06	NS	malignant_melanoma	NS
-Sample_165	Au2	scalp	malignant_melanoma	desmoplastic
-Sample_166	6	leg	carcinoma	Merkel_cell_carcinoma
-Sample_167	TCGA-IH-A3EA-01	NS	malignant_melanoma	NS
-Sample_168	TCGA-EE-A3JB-06	NS	malignant_melanoma	NS
-Sample_169	TCGA-GN-A267-06	NS	malignant_melanoma	NS
-Sample_170	TCGA-DA-A1HW-06	NS	malignant_melanoma	NS
-Sample_171	TCGA-EE-A29G-06	NS	malignant_melanoma	NS
-Sample_172	YUPAER	NS	malignant_melanoma	NS
-Sample_173	Au10	scalp	malignant_melanoma	desmoplastic
-Sample_174	YUKAE	NS	malignant_melanoma	NS
-Sample_175	TCGA-EE-A3AF-06	NS	malignant_melanoma	NS
-Sample_176	46M	face	malignant_melanoma	desmoplastic
-Sample_177	TCGA-D3-A3CB-06	NS	malignant_melanoma	NS
-Sample_178	YUOTHO	NS	malignant_melanoma	NS
-Sample_179	TCGA-QB-A6FS-06	NS	malignant_melanoma	NS
-Sample_180	TCGA-EE-A2M5-06	NS	malignant_melanoma	NS
-Sample_181	YUDON	NS	malignant_melanoma	NS
-Sample_182	TCGA-GN-A262-06	NS	malignant_melanoma	NS
-Sample_183	TCGA-D3-A5GR-06	NS	malignant_melanoma	NS
-Sample_184	TCGA-EE-A2MJ-06	NS	malignant_melanoma	NS
-Sample_185	TCGA-EB-A41B-01	NS	malignant_melanoma	NS
-Sample_186	TCGA-EE-A2MK-06	NS	malignant_melanoma	NS
-Sample_187	TCGA-EE-A29N-06	NS	malignant_melanoma	NS
-Sample_188	TCGA-RP-A693-06	NS	malignant_melanoma	NS
-Sample_189	TCGA-EB-A24D-01	NS	malignant_melanoma	NS
-Sample_190	TCGA-FR-A44A-06	NS	malignant_melanoma	NS
-Sample_191	YUOMEGA	NS	malignant_melanoma	NS
-Sample_192	TCGA-ER-A2NG-06	NS	malignant_melanoma	NS
-Sample_193	TCGA-FS-A4F0-06	NS	malignant_melanoma	NS
-Sample_194	TCGA-D3-A51E-06	NS	malignant_melanoma	NS
-Sample_195	TCGA-EE-A184-06	NS	malignant_melanoma	NS
-Sample_196	YUSWI	NS	malignant_melanoma	NS
-Sample_197	WM3211	ankle	malignant_melanoma	acral_lentiginous
-Sample_198	TCGA-FS-A4FC-06	NS	malignant_melanoma	NS
-Sample_199	YUQUEST	NS	malignant_melanoma	NS
-Sample_200	TCGA-D3-A51T-06	NS	malignant_melanoma	NS
-Sample_201	TCGA-EB-A5UL-06	NS	malignant_melanoma	NS
-Sample_202	TCGA-EE-A29M-06	NS	malignant_melanoma	NS
-Sample_203	TCGA-EE-A180-06	NS	malignant_melanoma	NS
-Sample_204	TCGA-BF-A3DM-01	NS	malignant_melanoma	NS
-Sample_205	TCGA-BF-A3DL-01	NS	malignant_melanoma	NS
-Sample_206	TCGA-D3-A2JO-06	NS	malignant_melanoma	NS
-Sample_207	YUROC	NS	malignant_melanoma	NS
-Sample_208	TCGA-EE-A2GT-06	NS	malignant_melanoma	NS
-Sample_209	TCGA-D9-A4Z3-01	NS	malignant_melanoma	NS
-Sample_210	TCGA-EE-A17X-06	NS	malignant_melanoma	NS
-Sample_211	TCGA-EE-A2A2-06	NS	malignant_melanoma	NS
-Sample_212	TCGA-DA-A3F3-06	NS	malignant_melanoma	NS
-Sample_213	TCGA-FR-A3YO-06	NS	malignant_melanoma	NS
-Sample_214	TCGA-EB-A3XB-01	NS	malignant_melanoma	NS
-Sample_215	TCGA-ER-A19A-06	NS	malignant_melanoma	NS
-Sample_216	TCGA-EE-A3AE-06	NS	malignant_melanoma	NS
-Sample_217	TCGA-EB-A4IS-01	NS	malignant_melanoma	NS
-Sample_218	TCGA-ER-A19H-06	NS	malignant_melanoma	NS
-Sample_219	YUSIV	NS	malignant_melanoma	NS
-Sample_220	TCGA-EE-A2GP-06	NS	malignant_melanoma	NS
-Sample_221	1T	neck	malignant_melanoma	NS
-Sample_222	TCGA-EE-A2M6-06	NS	malignant_melanoma	NS
-Sample_223	TCGA-EE-A29P-06	NS	malignant_melanoma	NS
-Sample_224	TCGA-EE-A2GS-06	NS	malignant_melanoma	NS
-Sample_225	Au5	lip	malignant_melanoma	desmoplastic
-Sample_226	TCGA-D3-A1QA-06	NS	malignant_melanoma	NS
-Sample_227	YUROL	NS	malignant_melanoma	NS
-Sample_228	TCGA-EB-A44O-01	NS	malignant_melanoma	NS
-Sample_229	TCGA-EE-A2MT-06	NS	malignant_melanoma	NS
-Sample_230	Au4	scalp	malignant_melanoma	desmoplastic
-Sample_231	TCGA-GF-A6C8-06	NS	malignant_melanoma	NS
-Sample_232	YUGAFFE	NS	malignant_melanoma	NS
-Sample_233	TCGA-ER-A19N-06	NS	malignant_melanoma	NS
-Sample_234	TCGA-D3-A5GU-06	NS	malignant_melanoma	NS
-Sample_235	1_PRE-TREATMENT	NS	malignant_melanoma	NS
-Sample_236	TCGA-EE-A29R-06	NS	malignant_melanoma	NS
-Sample_237	TCGA-EB-A3Y7-01	NS	malignant_melanoma	NS
-Sample_238	TCGA-D3-A51J-06	NS	malignant_melanoma	NS
-Sample_239	TCGA-D3-A2J7-06	NS	malignant_melanoma	NS
-Sample_240	TCGA-D3-A2JK-06	NS	malignant_melanoma	NS
-Sample_241	TCGA-GF-A6C9-06	NS	malignant_melanoma	NS
-Sample_242	TCGA-FS-A1Z3-06	NS	malignant_melanoma	NS
-Sample_243	TCGA-ER-A193-06	NS	malignant_melanoma	NS
-Sample_244	TCGA-EB-A5SG-06	NS	malignant_melanoma	NS
-Sample_245	YUNEKI	NS	malignant_melanoma	NS
-Sample_246	TCGA-FS-A1ZQ-06	NS	malignant_melanoma	NS
-Sample_247	TCGA-EB-A430-01	NS	malignant_melanoma	NS
-Sample_248	4_PRE-TREATMENT	NS	malignant_melanoma	NS
-Sample_249	TCGA-DA-A3F5-06	NS	malignant_melanoma	NS
-Sample_250	TCGA-ER-A198-06	NS	malignant_melanoma	NS
-Sample_251	TCGA-EB-A3Y6-01	NS	malignant_melanoma	NS
-Sample_252	TCGA-D3-A3C3-06	NS	malignant_melanoma	NS
-Sample_253	2492729	NS	malignant_melanoma	NS
-Sample_254	2492726	NS	malignant_melanoma	NS
-Sample_255	2492725	NS	malignant_melanoma	NS
-Sample_256	TCGA-ER-A19E-06	NS	malignant_melanoma	NS
-Sample_257	TCGA-EE-A2MD-06	NS	malignant_melanoma	NS
-Sample_258	TCGA-EB-A553-01	NS	malignant_melanoma	NS
-Sample_259	TCGA-EE-A29D-06	NS	malignant_melanoma	NS
-Sample_260	TCGA-EB-A44P-01	NS	malignant_melanoma	NS
-Sample_261	YUWAND	mucosal	malignant_melanoma	NS
-Sample_262	TCGA-EB-A5UN-06	NS	malignant_melanoma	NS
-Sample_263	TCGA-D3-A2JF-06	NS	malignant_melanoma	NS
-Sample_264	YUMER	NS	malignant_melanoma	NS
-Sample_265	TCGA-RP-A694-06	NS	malignant_melanoma	NS
-Sample_266	YURAY	NS	malignant_melanoma	NS
-Sample_267	TCGA-EE-A3AG-06	NS	malignant_melanoma	NS
-Sample_268	TCGA-DA-A1I1-06	NS	malignant_melanoma	NS
-Sample_269	TCGA-DA-A1I0-06	NS	malignant_melanoma	NS
-Sample_270	YULAD	NS	malignant_melanoma	NS
-Sample_271	TCGA-EE-A29E-06	NS	malignant_melanoma	NS
-Sample_272	TCGA-BF-A1Q0-01	NS	malignant_melanoma	NS
-Sample_273	2492711	ankle	malignant_melanoma	NS
-Sample_274	2492710	NS	malignant_melanoma	NS
-Sample_275	2492709	NS	malignant_melanoma	NS
-Sample_276	16	NS	malignant_melanoma	NS
-Sample_277	PT37	NS	carcinoma	basal_cell_carcinoma
-Sample_278	YUGATOR	NS	malignant_melanoma	NS
-Sample_279	LAU63	trunk	malignant_melanoma	nodular
-Sample_280	YUPAT	NS	malignant_melanoma	NS
-Sample_281	S0029	face	carcinoma	squamous_cell_carcinoma
-Sample_282	PT23_2	NS	carcinoma	basal_cell_carcinoma
-Sample_283	PT48	NS	carcinoma	basal_cell_carcinoma
-Sample_284	PT34	NS	carcinoma	basal_cell_carcinoma
-Sample_285	YUHEF	scalp	malignant_melanoma	NS
-Sample_286	TCGA-EE-A2GR-06	NS	malignant_melanoma	NS
-Sample_287	PT14_1	NS	carcinoma	basal_cell_carcinoma
-Sample_288	PT52	NS	carcinoma	basal_cell_carcinoma
-Sample_289	YUCHIME	NS	malignant_melanoma	NS
-Sample_290	PT41	NS	carcinoma	basal_cell_carcinoma
-Sample_291	2521244	NS	carcinoma	basal_cell_carcinoma
-Sample_292	YUDAB	NS	malignant_melanoma	NS
-Sample_293	YURUS	NS	malignant_melanoma	NS
-Sample_294	TCGA-D3-A5GO-06	NS	malignant_melanoma	NS
-Sample_295	YUMOBER	NS	malignant_melanoma	NS
-Sample_296	TCGA-EE-A2MC-06	NS	malignant_melanoma	NS
-Sample_297	YUDEDE	NS	malignant_melanoma	NS
-Sample_298	TCGA-DA-A1I7-06	NS	malignant_melanoma	NS
-Sample_299	TCGA-FS-A4F9-06	NS	malignant_melanoma	NS
-Sample_300	TCGA-EE-A29V-06	NS	malignant_melanoma	NS
-Sample_301	TCGA-EB-A431-01	NS	malignant_melanoma	NS
-Sample_302	TCGA-EE-A2GM-06	NS	malignant_melanoma	NS
-Sample_303	TCGA-D9-A3Z1-06	NS	malignant_melanoma	NS
-Sample_304	ME049T	NS	malignant_melanoma	NS
-Sample_305	TCGA-EE-A20F-06	NS	malignant_melanoma	NS
-Sample_306	TCGA-D3-A3C8-06	NS	malignant_melanoma	NS
-Sample_307	TCGA-EE-A3J7-06	NS	malignant_melanoma	NS
-Sample_308	TCGA-EE-A29B-06	NS	malignant_melanoma	NS
-Sample_309	YUPTER	NS	malignant_melanoma	NS
-Sample_310	ME009T	trunk	malignant_melanoma	NS
-Sample_311	TCGA-D3-A2JN-06	NS	malignant_melanoma	NS
-Sample_312	TCGA-FS-A4F5-06	NS	malignant_melanoma	NS
-Sample_313	TCGA-D9-A6EC-06	NS	malignant_melanoma	NS
-Sample_314	PT42	NS	carcinoma	basal_cell_carcinoma
-Sample_315	PT21_2	NS	carcinoma	basal_cell_carcinoma
-Sample_316	PT16_1	NS	carcinoma	basal_cell_carcinoma
-Sample_317	PT45	NS	carcinoma	basal_cell_carcinoma
-Sample_318	PT40	NS	carcinoma	basal_cell_carcinoma
-Sample_319	PT49	NS	carcinoma	basal_cell_carcinoma
-Sample_320	2521262	face	carcinoma	basal_cell_carcinoma
-Sample_321	PT50	NS	carcinoma	basal_cell_carcinoma
-Sample_322	PT35	NS	carcinoma	basal_cell_carcinoma
-Sample_323	PT09_1	leg	carcinoma	basal_cell_carcinoma
-Sample_324	PT08_2	neck	carcinoma	basal_cell_carcinoma
-Sample_325	PT51	NS	carcinoma	basal_cell_carcinoma
-Sample_326	PT53	NS	carcinoma	basal_cell_carcinoma
-Sample_327	PT19_1	NS	carcinoma	basal_cell_carcinoma
-Sample_328	PT38	NS	carcinoma	basal_cell_carcinoma
-Sample_329	YUKLAB	NS	malignant_melanoma	NS
-Sample_330	CSCC-52-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_331	CSCC-42-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_332	CSCC-55-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_333	PT31	NS	carcinoma	basal_cell_carcinoma
-Sample_334	PT23_1	NS	carcinoma	basal_cell_carcinoma
-Sample_335	YUKAT	NS	malignant_melanoma	NS
-Sample_336	YUPROST	neck	malignant_melanoma	NS
-Sample_337	TCGA-EE-A2A5-06	NS	malignant_melanoma	NS
-Sample_338	PT24_1	NS	carcinoma	basal_cell_carcinoma
-Sample_339	TCGA-EE-A2A0-06	NS	malignant_melanoma	NS
-Sample_340	TCGA-D3-A2JL-06	NS	malignant_melanoma	NS
-Sample_341	YURTHE	NS	malignant_melanoma	NS
-Sample_342	TCGA-D9-A4Z6-01	NS	malignant_melanoma	NS
-Sample_343	2	ear	carcinoma	Merkel_cell_carcinoma
-Sample_344	1_RESISTANT	NS	malignant_melanoma	NS
-Sample_345	12T	arm	malignant_melanoma	NS
-Sample_346	CSCC-10-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_347	YULETA	NS	malignant_melanoma	NS
-Sample_348	TCGA-D3-A1Q6-06	NS	malignant_melanoma	NS
-Sample_349	PT17_1	NS	carcinoma	basal_cell_carcinoma
-Sample_350	YUGURT	NS	malignant_melanoma	NS
-Sample_351	YUDEXA	NS	malignant_melanoma	NS
-Sample_352	TCGA-EE-A2MQ-06	NS	malignant_melanoma	NS
-Sample_353	TCGA-D3-A2JA-06	NS	malignant_melanoma	NS
-Sample_354	YUSMI	NS	malignant_melanoma	NS
-Sample_355	YUSCA	NS	malignant_melanoma	NS
-Sample_356	YUBER	NS	malignant_melanoma	NS
-Sample_357	YUJUBE	NS	malignant_melanoma	NS
-Sample_358	TCGA-D9-A6EA-06	NS	malignant_melanoma	NS
-Sample_359	TCGA-FS-A1ZS-06	NS	malignant_melanoma	NS
-Sample_360	TCGA-EB-A3XC-01	NS	malignant_melanoma	NS
-Sample_361	TCGA-BF-A1PX-01	NS	malignant_melanoma	NS
-Sample_362	YUVEME	NS	malignant_melanoma	NS
-Sample_363	YULAN	NS	malignant_melanoma	NS
-Sample_364	TCGA-ER-A19M-06	NS	malignant_melanoma	NS
-Sample_365	TCGA-EE-A2GU-06	NS	malignant_melanoma	NS
-Sample_366	TCGA-EE-A2A1-06	NS	malignant_melanoma	NS
-Sample_367	TCGA-D3-A2JP-06	NS	malignant_melanoma	NS
-Sample_368	TCGA-D3-A1Q5-06	NS	malignant_melanoma	NS
-Sample_369	TCGA-FS-A1ZW-06	NS	malignant_melanoma	NS
-Sample_370	ME029T	trunk	malignant_melanoma	NS
-Sample_371	TCGA-ER-A2NC-06	NS	malignant_melanoma	NS
-Sample_372	PT25	NS	carcinoma	basal_cell_carcinoma
-Sample_373	ME100L	NS	malignant_melanoma	NS
-Sample_374	YUAKER	NS	malignant_melanoma	NS
-Sample_375	YUFERY	NS	malignant_melanoma	NS
-Sample_376	YUTRAIN	NS	malignant_melanoma	NS
-Sample_377	TCGA-EB-A5UM-01	NS	malignant_melanoma	NS
-Sample_378	TCGA-D3-A2JD-06	NS	malignant_melanoma	NS
-Sample_379	TCGA-ER-A19F-06	NS	malignant_melanoma	NS
-Sample_380	ME044T	trunk	malignant_melanoma	NS
-Sample_381	TCGA-EE-A29L-06	NS	malignant_melanoma	NS
-Sample_382	19M	scalp	malignant_melanoma	desmoplastic
-Sample_383	TCGA-GN-A266-06	NS	malignant_melanoma	NS
-Sample_384	LAU165	head_neck	malignant_melanoma	superficial_spreading
-Sample_385	cSCCP4	face	carcinoma	squamous_cell_carcinoma
-Sample_386	TCGA-GN-A263-01	NS	malignant_melanoma	NS
-Sample_387	49M	neck	malignant_melanoma	desmoplastic
-Sample_388	TCGA-DA-A1IA-06	NS	malignant_melanoma	NS
-Sample_389	TCGA-D3-A51G-06	NS	malignant_melanoma	NS
-Sample_390	TCGA-ER-A19K-01	NS	malignant_melanoma	NS
-Sample_391	cSCCP6	scalp	carcinoma	squamous_cell_carcinoma
-Sample_392	TCGA-DA-A1IC-06	NS	malignant_melanoma	NS
-Sample_393	TCGA-EE-A3J5-06	NS	malignant_melanoma	NS
-Sample_394	TCGA-D3-A5GS-06	NS	malignant_melanoma	NS
-Sample_395	YUKIL	NS	malignant_melanoma	NS
-Sample_396	ME043T	extremity	malignant_melanoma	NS
-Sample_397	YUMOKI	NS	malignant_melanoma	NS
-Sample_398	4	face	carcinoma	Merkel_cell_carcinoma
-Sample_399	4_RESISTANT	NS	malignant_melanoma	NS
-Sample_400	CSCC-41-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_401	CSCC-27-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_402	CSCC-17-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_403	cSCCP2	hand	carcinoma	squamous_cell_carcinoma
-Sample_404	S06-38853-TP	NS	carcinoma	squamous_cell_carcinoma
-Sample_405	YUKSI	NS	malignant_melanoma	NS
-Sample_406	PT32	NS	carcinoma	basal_cell_carcinoma
-Sample_407	CSCC-45-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_408	7	face	carcinoma	Merkel_cell_carcinoma
-Sample_409	2521243	face	carcinoma	basal_cell_carcinoma
-Sample_410	PT08_1	neck	carcinoma	basal_cell_carcinoma
-Sample_411	ME024T	NS	malignant_melanoma	NS
-Sample_412	2492730	NS	malignant_melanoma	NS
-Sample_413	ME011T	extremity	malignant_melanoma	NS
-Sample_414	24T	upper_arm	malignant_melanoma	NS
-Sample_415	TCGA-DA-A1HV-06	NS	malignant_melanoma	NS
-Sample_416	PT55	NS	carcinoma	basal_cell_carcinoma
-Sample_417	PT27	NS	carcinoma	basal_cell_carcinoma
-Sample_418	1	leg	carcinoma	Merkel_cell_carcinoma
-Sample_419	TCGA-EE-A3AC-06	NS	malignant_melanoma	NS
-Sample_420	5	face	carcinoma	Merkel_cell_carcinoma
-Sample_421	CSCC-47-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_422	CSCC-20-T	head_neck	carcinoma	squamous_cell_carcinoma
-Sample_423	TCGA-ER-A19W-06	NS	malignant_melanoma	NS
-Sample_424	TCGA-EE-A20C-06	NS	malignant_melanoma	NS
-Sample_425				
+Sample ID	Sample name	Site subtype 1	Site subtype 2	Site subtype 3	Primary histology	Histology subtype 1	Histology subtype 2	Histology subtype 3
+Sample_1	TCGA-EE-A2MR-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_2	TCGA-D3-A3C7-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_3	71M	upper_leg	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_4	TCGA-ER-A2NH-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_5	TCGA-EB-A5SE-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_6	PT19_2	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_7	PT13	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_8	PT09_2	leg	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_9	TCGA-FW-A3TU-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_10	TCGA-EE-A2GB-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_11	TCGA-EE-A2MS-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_12	CSCC-29-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_13	Au1	back	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_14	11M	shoulder	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_15	TCGA-GF-A3OT-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_16	TCGA-D9-A1JW-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_17	TCGA-EE-A2ML-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_18	S03-45671-TP	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_19	PT15_1	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_20	PT33	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_21	2521259	face	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_22	YUZINO	mucosal	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_23	TCGA-EE-A3JD-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_24	CSCC-40-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_25	TCGA-EE-A3J8-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_26	CSCC-38-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_27	cSCCP8	ear	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_28	PT44	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_29	35M	trunk	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_30	CSCC-19-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_31	CSCC-16-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_32	CSCC-31-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_33	CSCC-5-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_34	CSCC-15-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_35	CSCC-62-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_36	CSCC-49-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_37	CSCC-7-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_38	CSCC-4-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_39	CSCC-37-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_40	CSCC-35-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_41	CSCC-32-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_42	CSCC-30-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_43	PT36	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_44	CSCC-57-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_45	CSCC-11-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_46	DM2	face	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_47	CSCC-60-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_48	TCGA-FS-A1ZP-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_49	Au8	ankle	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_50	2492703	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_51	2492701	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_52	2492708	lower_leg	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_53	2492702	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_54	Au3	chest	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_55	CSCC-56-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_56	CSCC-2-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_57	CSCC-46-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_58	TCGA-D3-A51R-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_59	CSCC-54-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_60	PT46	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_61	53M	upper_arm	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_62	40M	forearm	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_63	CSCC-6-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_64	CSCC-18-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_65	2492700	face	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_66	TCGA-EB-A3XD-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_67	TCGA-BF-A1PV-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_68	TCGA-GN-A26C-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_69	YUROG	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_70	cSCCP5	face	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_71	CSCC-44-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_72	cSCCP7	face	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_73	2521252	face	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_74	TCGA-EE-A2MM-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_75	TCGA-EE-A2A6-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_76	TCGA-FR-A3R1-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_77	YULONE	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_78	YUDIVI	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_79	TCGA-EE-A29Q-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_80	TCGA-ER-A199-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_81	LAU108	arm	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_82	TCGA-FS-A1Z0-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_83	TCGA-EB-A551-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_84	TCGA-D9-A148-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_85	TCGA-DA-A3F8-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_86	TCGA-FR-A3YN-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_87	YURISA	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_88	YUDUTY	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_89	YUWIA	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_90	YUFIT	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_91	TCGA-EE-A2MI-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_92	TCGA-FS-A1ZZ-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_93	TCGA-EE-A3AB-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_94	TCGA-D3-A2J8-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_95	TCGA-D3-A1QB-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_96	TCGA-EE-A20H-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_97	TCGA-ER-A19D-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_98	TCGA-GN-A268-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_99	TCGA-FW-A3TV-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_100	TCGA-EE-A2GO-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_101	TCGA-EE-A2GI-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_102	YUMUL	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_103	TCGA-D3-A3ML-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_104	TCGA-FS-A1ZC-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_105	37M	scalp	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_106	TCGA-DA-A1I5-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_107	TCGA-DA-A1HY-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_108	YULOCUS	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_109	YULAPE	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_110	TCGA-EE-A3AA-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_111	TCGA-RP-A695-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_112	TCGA-EE-A3JA-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_113	TCGA-D3-A3MV-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_114	TCGA-EE-A2GH-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_115	MZ7-mel	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_116	TCGA-GN-A269-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_117	TCGA-EE-A29H-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_118	TCGA-EE-A29C-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_119	TCGA-EB-A41A-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_120	TCGA-FW-A3R5-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_121	TCGA-EE-A2GD-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_122	TCGA-EE-A29S-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_123	TCGA-EE-A2GN-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_124	YUHAMA	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_125	TCGA-EE-A3J4-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_126	TCGA-FS-A4FD-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_127	TCGA-D3-A2JH-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_128	YUGOE	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_129	TCGA-EE-A3AH-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_130	TCGA-GN-A26A-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_131	TCGA-ER-A19P-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_132	TCGA-ER-A195-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_133	TCGA-EE-A2GJ-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_134	TCGA-D3-A1Q4-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_135	2492724	forearm	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_136	2492722	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_137	2492723	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_138	2492721	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_139	TCGA-EE-A182-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_140	TCGA-EE-A3AD-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_141	TCGA-D3-A5GN-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_142	12M	face	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_143	TCGA-ER-A19G-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_144	TCGA-D3-A3MU-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_145	TCGA-EE-A2MF-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_146	TCGA-EE-A183-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_147	TCGA-D3-A3MR-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_148	TCGA-FS-A1ZA-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_149	TCGA-EE-A3JI-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_150	TCGA-ER-A194-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_151	ME002T	extremity	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_152	TCGA-FS-A1ZK-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_153	TCGA-EE-A2GL-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_154	2492720	ear	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_155	2492714	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_156	2492712	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_157	2492713	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_158	Au9	lip	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_159	TCGA-ER-A3PL-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_160	TCGA-EE-A181-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_161	TCGA-GN-A265-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_162	cSCCP1	scalp	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_163	TCGA-EE-A2MU-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_164	TCGA-EE-A2GC-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_165	Au2	scalp	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_166	6	leg	NS	NS	carcinoma	Merkel_cell_carcinoma	NS	NS
+Sample_167	TCGA-IH-A3EA-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_168	TCGA-EE-A3JB-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_169	TCGA-GN-A267-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_170	TCGA-DA-A1HW-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_171	TCGA-EE-A29G-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_172	YUPAER	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_173	Au10	scalp	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_174	YUKAE	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_175	TCGA-EE-A3AF-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_176	46M	face	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_177	TCGA-D3-A3CB-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_178	YUOTHO	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_179	TCGA-QB-A6FS-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_180	TCGA-EE-A2M5-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_181	YUDON	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_182	TCGA-GN-A262-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_183	TCGA-D3-A5GR-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_184	TCGA-EE-A2MJ-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_185	TCGA-EB-A41B-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_186	TCGA-EE-A2MK-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_187	TCGA-EE-A29N-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_188	TCGA-RP-A693-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_189	TCGA-EB-A24D-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_190	TCGA-FR-A44A-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_191	YUOMEGA	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_192	TCGA-ER-A2NG-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_193	TCGA-FS-A4F0-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_194	TCGA-D3-A51E-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_195	TCGA-EE-A184-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_196	YUSWI	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_197	WM3211	ankle	NS	NS	malignant_melanoma	acral_lentiginous	NS	NS
+Sample_198	TCGA-FS-A4FC-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_199	YUQUEST	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_200	TCGA-D3-A51T-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_201	TCGA-EB-A5UL-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_202	TCGA-EE-A29M-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_203	TCGA-EE-A180-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_204	TCGA-BF-A3DM-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_205	TCGA-BF-A3DL-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_206	TCGA-D3-A2JO-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_207	YUROC	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_208	TCGA-EE-A2GT-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_209	TCGA-D9-A4Z3-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_210	TCGA-EE-A17X-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_211	TCGA-EE-A2A2-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_212	TCGA-DA-A3F3-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_213	TCGA-FR-A3YO-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_214	TCGA-EB-A3XB-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_215	TCGA-ER-A19A-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_216	TCGA-EE-A3AE-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_217	TCGA-EB-A4IS-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_218	TCGA-ER-A19H-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_219	YUSIV	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_220	TCGA-EE-A2GP-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_221	1T	neck	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_222	TCGA-EE-A2M6-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_223	TCGA-EE-A29P-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_224	TCGA-EE-A2GS-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_225	Au5	lip	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_226	TCGA-D3-A1QA-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_227	YUROL	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_228	TCGA-EB-A44O-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_229	TCGA-EE-A2MT-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_230	Au4	scalp	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_231	TCGA-GF-A6C8-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_232	YUGAFFE	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_233	TCGA-ER-A19N-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_234	TCGA-D3-A5GU-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_235	1_PRE-TREATMENT	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_236	TCGA-EE-A29R-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_237	TCGA-EB-A3Y7-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_238	TCGA-D3-A51J-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_239	TCGA-D3-A2J7-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_240	TCGA-D3-A2JK-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_241	TCGA-GF-A6C9-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_242	TCGA-FS-A1Z3-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_243	TCGA-ER-A193-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_244	TCGA-EB-A5SG-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_245	YUNEKI	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_246	TCGA-FS-A1ZQ-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_247	TCGA-EB-A430-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_248	4_PRE-TREATMENT	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_249	TCGA-DA-A3F5-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_250	TCGA-ER-A198-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_251	TCGA-EB-A3Y6-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_252	TCGA-D3-A3C3-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_253	2492729	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_254	2492726	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_255	2492725	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_256	TCGA-ER-A19E-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_257	TCGA-EE-A2MD-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_258	TCGA-EB-A553-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_259	TCGA-EE-A29D-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_260	TCGA-EB-A44P-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_261	YUWAND	mucosal	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_262	TCGA-EB-A5UN-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_263	TCGA-D3-A2JF-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_264	YUMER	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_265	TCGA-RP-A694-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_266	YURAY	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_267	TCGA-EE-A3AG-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_268	TCGA-DA-A1I1-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_269	TCGA-DA-A1I0-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_270	YULAD	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_271	TCGA-EE-A29E-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_272	TCGA-BF-A1Q0-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_273	2492711	ankle	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_274	2492710	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_275	2492709	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_276	16	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_277	PT37	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_278	YUGATOR	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_279	LAU63	trunk	NS	NS	malignant_melanoma	nodular	NS	NS
+Sample_280	YUPAT	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_281	S0029	face	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_282	PT23_2	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_283	PT48	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_284	PT34	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_285	YUHEF	scalp	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_286	TCGA-EE-A2GR-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_287	PT14_1	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_288	PT52	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_289	YUCHIME	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_290	PT41	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_291	2521244	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_292	YUDAB	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_293	YURUS	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_294	TCGA-D3-A5GO-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_295	YUMOBER	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_296	TCGA-EE-A2MC-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_297	YUDEDE	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_298	TCGA-DA-A1I7-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_299	TCGA-FS-A4F9-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_300	TCGA-EE-A29V-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_301	TCGA-EB-A431-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_302	TCGA-EE-A2GM-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_303	TCGA-D9-A3Z1-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_304	ME049T	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_305	TCGA-EE-A20F-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_306	TCGA-D3-A3C8-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_307	TCGA-EE-A3J7-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_308	TCGA-EE-A29B-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_309	YUPTER	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_310	ME009T	trunk	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_311	TCGA-D3-A2JN-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_312	TCGA-FS-A4F5-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_313	TCGA-D9-A6EC-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_314	PT42	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_315	PT21_2	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_316	PT16_1	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_317	PT45	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_318	PT40	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_319	PT49	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_320	2521262	face	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_321	PT50	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_322	PT35	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_323	PT09_1	leg	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_324	PT08_2	neck	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_325	PT51	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_326	PT53	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_327	PT19_1	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_328	PT38	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_329	YUKLAB	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_330	CSCC-52-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_331	CSCC-42-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_332	CSCC-55-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_333	PT31	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_334	PT23_1	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_335	YUKAT	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_336	YUPROST	neck	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_337	TCGA-EE-A2A5-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_338	PT24_1	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_339	TCGA-EE-A2A0-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_340	TCGA-D3-A2JL-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_341	YURTHE	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_342	TCGA-D9-A4Z6-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_343	2	ear	NS	NS	carcinoma	Merkel_cell_carcinoma	NS	NS
+Sample_344	1_RESISTANT	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_345	12T	arm	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_346	CSCC-10-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_347	YULETA	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_348	TCGA-D3-A1Q6-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_349	PT17_1	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_350	YUGURT	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_351	YUDEXA	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_352	TCGA-EE-A2MQ-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_353	TCGA-D3-A2JA-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_354	YUSMI	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_355	YUSCA	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_356	YUBER	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_357	YUJUBE	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_358	TCGA-D9-A6EA-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_359	TCGA-FS-A1ZS-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_360	TCGA-EB-A3XC-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_361	TCGA-BF-A1PX-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_362	YUVEME	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_363	YULAN	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_364	TCGA-ER-A19M-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_365	TCGA-EE-A2GU-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_366	TCGA-EE-A2A1-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_367	TCGA-D3-A2JP-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_368	TCGA-D3-A1Q5-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_369	TCGA-FS-A1ZW-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_370	ME029T	trunk	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_371	TCGA-ER-A2NC-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_372	PT25	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_373	ME100L	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_374	YUAKER	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_375	YUFERY	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_376	YUTRAIN	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_377	TCGA-EB-A5UM-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_378	TCGA-D3-A2JD-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_379	TCGA-ER-A19F-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_380	ME044T	trunk	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_381	TCGA-EE-A29L-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_382	19M	scalp	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_383	TCGA-GN-A266-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_384	LAU165	head_neck	NS	NS	malignant_melanoma	superficial_spreading	NS	NS
+Sample_385	cSCCP4	face	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_386	TCGA-GN-A263-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_387	49M	neck	NS	NS	malignant_melanoma	desmoplastic	NS	NS
+Sample_388	TCGA-DA-A1IA-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_389	TCGA-D3-A51G-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_390	TCGA-ER-A19K-01	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_391	cSCCP6	scalp	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_392	TCGA-DA-A1IC-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_393	TCGA-EE-A3J5-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_394	TCGA-D3-A5GS-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_395	YUKIL	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_396	ME043T	extremity	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_397	YUMOKI	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_398	4	face	NS	NS	carcinoma	Merkel_cell_carcinoma	NS	NS
+Sample_399	4_RESISTANT	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_400	CSCC-41-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_401	CSCC-27-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_402	CSCC-17-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_403	cSCCP2	hand	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_404	S06-38853-TP	NS	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_405	YUKSI	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_406	PT32	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_407	CSCC-45-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_408	7	face	NS	NS	carcinoma	Merkel_cell_carcinoma	NS	NS
+Sample_409	2521243	face	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_410	PT08_1	neck	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_411	ME024T	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_412	2492730	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_413	ME011T	extremity	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_414	24T	upper_arm	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_415	TCGA-DA-A1HV-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_416	PT55	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_417	PT27	NS	NS	NS	carcinoma	basal_cell_carcinoma	NS	NS
+Sample_418	1	leg	NS	NS	carcinoma	Merkel_cell_carcinoma	NS	NS
+Sample_419	TCGA-EE-A3AC-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_420	5	face	NS	NS	carcinoma	Merkel_cell_carcinoma	NS	NS
+Sample_421	CSCC-47-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_422	CSCC-20-T	head_neck	NS	NS	carcinoma	squamous_cell_carcinoma	NS	NS
+Sample_423	TCGA-ER-A19W-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_424	TCGA-EE-A20C-06	NS	NS	NS	malignant_melanoma	NS	NS	NS
+Sample_425								
